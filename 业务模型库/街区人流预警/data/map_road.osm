@@ -1,0 +1,5677 @@
+<?xml version="1.0" ?>
+<osm version="0.6" generator="shp_to_osm">
+  <way id="-2" visible="true">
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <tag k="u" v="11508563968"/>
+    <tag k="v" v="11508563960"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849044"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="25.059"/>
+  </way>
+  <node id="-2" lat="22.5486831" lon="114.1135562" visible="true"/>
+  <node id="-3" lat="22.548463" lon="114.1135038" visible="true"/>
+  <way id="-3" visible="true">
+    <nd ref="-2"/>
+    <nd ref="-3"/>
+    <tag k="u" v="11508563968"/>
+    <tag k="v" v="11508563960"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1238849045"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="25.059"/>
+  </way>
+  <way id="-4" visible="true">
+    <nd ref="-2"/>
+    <nd ref="-4"/>
+    <nd ref="-5"/>
+    <nd ref="-6"/>
+    <nd ref="-7"/>
+    <nd ref="-8"/>
+    <nd ref="-9"/>
+    <nd ref="-10"/>
+    <nd ref="-11"/>
+    <nd ref="-12"/>
+    <nd ref="-13"/>
+    <nd ref="-14"/>
+    <nd ref="-15"/>
+    <nd ref="-16"/>
+    <nd ref="-17"/>
+    <nd ref="-18"/>
+    <nd ref="-19"/>
+    <nd ref="-20"/>
+    <nd ref="-21"/>
+    <nd ref="-22"/>
+    <nd ref="-23"/>
+    <nd ref="-3"/>
+    <tag k="u" v="11508563968"/>
+    <tag k="v" v="11508563960"/>
+    <tag k="key" v="2"/>
+    <tag k="osmid" v="1238849044"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="301.44899999999996"/>
+  </way>
+  <node id="-4" lat="22.5487077" lon="114.1135621" visible="true"/>
+  <node id="-5" lat="22.5487038" lon="114.113591" visible="true"/>
+  <node id="-6" lat="22.5487474" lon="114.1136004" visible="true"/>
+  <node id="-7" lat="22.54877" lon="114.1134769" visible="true"/>
+  <node id="-8" lat="22.5489045" lon="114.1133901" visible="true"/>
+  <node id="-9" lat="22.5490669" lon="114.1134203" visible="true"/>
+  <node id="-10" lat="22.5491997" lon="114.1136194" visible="true"/>
+  <node id="-11" lat="22.5493466" lon="114.11365" visible="true"/>
+  <node id="-12" lat="22.5493271" lon="114.1137598" visible="true"/>
+  <node id="-13" lat="22.5493355" lon="114.1137616" visible="true"/>
+  <node id="-14" lat="22.5492916" lon="114.1140068" visible="true"/>
+  <node id="-15" lat="22.5492228" lon="114.1139924" visible="true"/>
+  <node id="-16" lat="22.5492113" lon="114.1140564" visible="true"/>
+  <node id="-17" lat="22.5487626" lon="114.113962" visible="true"/>
+  <node id="-18" lat="22.5487719" lon="114.11391" visible="true"/>
+  <node id="-19" lat="22.5487348" lon="114.1139022" visible="true"/>
+  <node id="-20" lat="22.5487152" lon="114.1138624" visible="true"/>
+  <node id="-21" lat="22.5486561" lon="114.1138497" visible="true"/>
+  <node id="-22" lat="22.5486406" lon="114.1139342" visible="true"/>
+  <node id="-23" lat="22.5483983" lon="114.113882" visible="true"/>
+  <way id="-5" visible="true">
+    <nd ref="-2"/>
+    <nd ref="-24"/>
+    <tag k="u" v="11508563968"/>
+    <tag k="v" v="12449944887"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849045"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="15.778"/>
+  </way>
+  <node id="-24" lat="22.5486926" lon="114.1134029" visible="true"/>
+  <way id="-6" visible="true">
+    <nd ref="-25"/>
+    <nd ref="-26"/>
+    <tag k="u" v="12958431267"/>
+    <tag k="v" v="12958431269"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1410266840"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="88.358"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <node id="-25" lat="22.5468585" lon="114.1130395" visible="true"/>
+  <node id="-26" lat="22.5469839" lon="114.1138891" visible="true"/>
+  <way id="-7" visible="true">
+    <nd ref="-25"/>
+    <nd ref="-27"/>
+    <nd ref="-28"/>
+    <tag k="u" v="12958431267"/>
+    <tag k="v" v="2044364018"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1234352668"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="54.861999999999995"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-27" lat="22.5469353" lon="114.112955" visible="true"/>
+  <node id="-28" lat="22.5471106" lon="114.1125852" visible="true"/>
+  <way id="-8" visible="true">
+    <nd ref="-29"/>
+    <nd ref="-30"/>
+    <tag k="u" v="12958431268"/>
+    <tag k="v" v="2044364028"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927269"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="73.471"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="????"/>
+    <tag k="lanes" v="2"/>
+  </way>
+  <node id="-29" lat="22.546645" lon="114.1139571" visible="true"/>
+  <node id="-30" lat="22.5467719" lon="114.1146592" visible="true"/>
+  <way id="-9" visible="true">
+    <nd ref="-29"/>
+    <nd ref="-31"/>
+    <tag k="u" v="12958431268"/>
+    <tag k="v" v="12958431273"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1410266842"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="6.735"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-31" lat="22.5467033" lon="114.1139393" visible="true"/>
+  <way id="-10" visible="true">
+    <nd ref="-26"/>
+    <nd ref="-25"/>
+    <tag k="u" v="12958431269"/>
+    <tag k="v" v="12958431267"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1410266840"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="88.358"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-11" visible="true">
+    <nd ref="-26"/>
+    <nd ref="-31"/>
+    <tag k="u" v="12958431269"/>
+    <tag k="v" v="12958431273"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1410266841"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="31.624"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-12" visible="true">
+    <nd ref="-26"/>
+    <nd ref="-32"/>
+    <nd ref="-33"/>
+    <tag k="u" v="12958431269"/>
+    <tag k="v" v="348429259"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1410266840"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="58.626999999999995"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <node id="-32" lat="22.5470773" lon="114.1138746" visible="true"/>
+  <node id="-33" lat="22.5474985" lon="114.1139828" visible="true"/>
+  <way id="-13" visible="true">
+    <nd ref="-31"/>
+    <nd ref="-26"/>
+    <tag k="u" v="12958431273"/>
+    <tag k="v" v="12958431269"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1410266841"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="31.624"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-14" visible="true">
+    <nd ref="-31"/>
+    <nd ref="-29"/>
+    <tag k="u" v="12958431273"/>
+    <tag k="v" v="12958431268"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1410266842"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="6.735"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-15" visible="true">
+    <nd ref="-31"/>
+    <nd ref="-34"/>
+    <nd ref="-35"/>
+    <nd ref="-36"/>
+    <nd ref="-37"/>
+    <nd ref="-38"/>
+    <nd ref="-39"/>
+    <nd ref="-40"/>
+    <nd ref="-41"/>
+    <nd ref="-31"/>
+    <tag k="u" v="12958431273"/>
+    <tag k="v" v="12958431273"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1410266839"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="365.867"/>
+    <tag k="name" v="??????"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <node id="-34" lat="22.5465811" lon="114.1132082" visible="true"/>
+  <node id="-35" lat="22.5468441" lon="114.1131585" visible="true"/>
+  <node id="-36" lat="22.5469584" lon="114.113928" visible="true"/>
+  <node id="-37" lat="22.5470685" lon="114.1139067" visible="true"/>
+  <node id="-38" lat="22.5472091" lon="114.1139638" visible="true"/>
+  <node id="-39" lat="22.5470079" lon="114.11453" visible="true"/>
+  <node id="-40" lat="22.5468093" lon="114.1145709" visible="true"/>
+  <node id="-41" lat="22.5467087" lon="114.1139719" visible="true"/>
+  <way id="-16" visible="true">
+    <nd ref="-31"/>
+    <nd ref="-41"/>
+    <nd ref="-40"/>
+    <nd ref="-39"/>
+    <nd ref="-38"/>
+    <nd ref="-37"/>
+    <nd ref="-36"/>
+    <nd ref="-35"/>
+    <nd ref="-34"/>
+    <nd ref="-31"/>
+    <tag k="u" v="12958431273"/>
+    <tag k="v" v="12958431273"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1410266839"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="365.86699999999996"/>
+    <tag k="name" v="??????"/>
+    <tag k="landuse" v="residential"/>
+  </way>
+  <way id="-17" visible="true">
+    <nd ref="-42"/>
+    <nd ref="-43"/>
+    <tag k="u" v="12958431280"/>
+    <tag k="v" v="12958431281"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927270"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="12.383"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-42" lat="22.5481487" lon="114.1129138" visible="true"/>
+  <node id="-43" lat="22.5481655" lon="114.1127946" visible="true"/>
+  <way id="-18" visible="true">
+    <nd ref="-42"/>
+    <nd ref="-44"/>
+    <nd ref="-45"/>
+    <nd ref="-46"/>
+    <nd ref="-47"/>
+    <nd ref="-48"/>
+    <nd ref="-49"/>
+    <nd ref="-50"/>
+    <nd ref="-51"/>
+    <nd ref="-52"/>
+    <nd ref="-53"/>
+    <nd ref="-54"/>
+    <nd ref="-55"/>
+    <nd ref="-42"/>
+    <tag k="u" v="12958431280"/>
+    <tag k="v" v="12958431280"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="271383686"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="376.814"/>
+    <tag k="name" v="????"/>
+  </way>
+  <node id="-44" lat="22.547694" lon="114.1128056" visible="true"/>
+  <node id="-45" lat="22.5476573" lon="114.113714" visible="true"/>
+  <node id="-46" lat="22.5476226" lon="114.1139527" visible="true"/>
+  <node id="-47" lat="22.5482079" lon="114.114072" visible="true"/>
+  <node id="-48" lat="22.5482394" lon="114.1138952" visible="true"/>
+  <node id="-49" lat="22.548268" lon="114.1138998" visible="true"/>
+  <node id="-50" lat="22.5482841" lon="114.1137818" visible="true"/>
+  <node id="-51" lat="22.5482941" lon="114.1136861" visible="true"/>
+  <node id="-52" lat="22.5482989" lon="114.1135584" visible="true"/>
+  <node id="-53" lat="22.5483083" lon="114.1131275" visible="true"/>
+  <node id="-54" lat="22.5482683" lon="114.1131193" visible="true"/>
+  <node id="-55" lat="22.5482989" lon="114.1129495" visible="true"/>
+  <way id="-19" visible="true">
+    <nd ref="-42"/>
+    <nd ref="-55"/>
+    <nd ref="-54"/>
+    <nd ref="-53"/>
+    <nd ref="-52"/>
+    <nd ref="-51"/>
+    <nd ref="-50"/>
+    <nd ref="-49"/>
+    <nd ref="-48"/>
+    <nd ref="-47"/>
+    <nd ref="-46"/>
+    <nd ref="-45"/>
+    <nd ref="-44"/>
+    <nd ref="-42"/>
+    <tag k="u" v="12958431280"/>
+    <tag k="v" v="12958431280"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="271383686"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="376.814"/>
+    <tag k="name" v="????"/>
+  </way>
+  <way id="-20" visible="true">
+    <nd ref="-43"/>
+    <nd ref="-42"/>
+    <tag k="u" v="12958431281"/>
+    <tag k="v" v="12958431280"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927270"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="12.383"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-21" visible="true">
+    <nd ref="-43"/>
+    <nd ref="-56"/>
+    <tag k="u" v="12958431281"/>
+    <tag k="v" v="2044364021"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927270"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="58.517"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-56" lat="22.5476492" lon="114.1126843" visible="true"/>
+  <way id="-22" visible="true">
+    <nd ref="-43"/>
+    <nd ref="-57"/>
+    <tag k="u" v="12958431281"/>
+    <tag k="v" v="12958431282"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1410266847"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="12.027"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-57" lat="22.5482714" lon="114.1128184" visible="true"/>
+  <way id="-23" visible="true">
+    <nd ref="-43"/>
+    <nd ref="-58"/>
+    <tag k="u" v="12958431281"/>
+    <tag k="v" v="2044364026"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1410266847"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="24.075"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-58" lat="22.5483775" lon="114.1128422" visible="true"/>
+  <way id="-24" visible="true">
+    <nd ref="-57"/>
+    <nd ref="-43"/>
+    <tag k="u" v="12958431282"/>
+    <tag k="v" v="12958431281"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1410266847"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="12.027"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-25" visible="true">
+    <nd ref="-59"/>
+    <nd ref="-60"/>
+    <tag k="u" v="6876000314"/>
+    <tag k="v" v="11508563892"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047311"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="97.836"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-59" lat="22.5468177" lon="114.1113953" visible="true"/>
+  <node id="-60" lat="22.5476967" lon="114.1114374" visible="true"/>
+  <way id="-26" visible="true">
+    <nd ref="-59"/>
+    <nd ref="-61"/>
+    <tag k="u" v="6876000314"/>
+    <tag k="v" v="2765186663"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="887873496"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="40.989"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="????"/>
+    <tag k="lanes" v="2"/>
+  </way>
+  <node id="-61" lat="22.5467702" lon="114.1109995" visible="true"/>
+  <way id="-27" visible="true">
+    <nd ref="-59"/>
+    <nd ref="-62"/>
+    <tag k="u" v="6876000314"/>
+    <tag k="v" v="2044364019"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="887873496"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="63.738"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="????"/>
+    <tag k="lanes" v="2"/>
+  </way>
+  <node id="-62" lat="22.5466096" lon="114.1119736" visible="true"/>
+  <way id="-28" visible="true">
+    <nd ref="-63"/>
+    <nd ref="-64"/>
+    <nd ref="-63"/>
+    <nd ref="-65"/>
+    <nd ref="-66"/>
+    <nd ref="-67"/>
+    <nd ref="-68"/>
+    <nd ref="-69"/>
+    <nd ref="-70"/>
+    <nd ref="-71"/>
+    <nd ref="-72"/>
+    <nd ref="-73"/>
+    <nd ref="-74"/>
+    <nd ref="-75"/>
+    <nd ref="-76"/>
+    <nd ref="-77"/>
+    <nd ref="-78"/>
+    <nd ref="-79"/>
+    <nd ref="-80"/>
+    <nd ref="-81"/>
+    <nd ref="-82"/>
+    <nd ref="-83"/>
+    <nd ref="-84"/>
+    <nd ref="-85"/>
+    <nd ref="-86"/>
+    <nd ref="-87"/>
+    <nd ref="-88"/>
+    <nd ref="-89"/>
+    <nd ref="-63"/>
+    <tag k="u" v="11508586559"/>
+    <tag k="v" v="12449944869"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238852261"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="1855.4140000000004"/>
+    <tag k="name" v="???????"/>
+    <tag k="landuse" v="retail"/>
+  </way>
+  <node id="-63" lat="22.547823900000083" lon="114.11147140000003" visible="true"/>
+  <node id="-64" lat="22.547773600000028" lon="114.11146880000001" visible="true"/>
+  <node id="-65" lat="22.547738000000095" lon="114.11146859999997" visible="true"/>
+  <node id="-66" lat="22.54763410000004" lon="114.1114652" visible="true"/>
+  <node id="-67" lat="22.547569399999986" lon="114.11058879999996" visible="true"/>
+  <node id="-68" lat="22.54746300000005" lon="114.11051559999999" visible="true"/>
+  <node id="-69" lat="22.546680900000013" lon="114.11063079999997" visible="true"/>
+  <node id="-70" lat="22.546778700000118" lon="114.11138270000015" visible="true"/>
+  <node id="-71" lat="22.546386200000143" lon="114.11251440000001" visible="true"/>
+  <node id="-72" lat="22.545926100000088" lon="114.11260270000002" visible="true"/>
+  <node id="-73" lat="22.54659270000002" lon="114.11676150000005" visible="true"/>
+  <node id="-74" lat="22.546712599999978" lon="114.11690110000006" visible="true"/>
+  <node id="-75" lat="22.54924290000008" lon="114.11634540000011" visible="true"/>
+  <node id="-76" lat="22.549567799999977" lon="114.11631890000001" visible="true"/>
+  <node id="-77" lat="22.54982799999999" lon="114.11634219999996" visible="true"/>
+  <node id="-78" lat="22.550076699999977" lon="114.11639830000001" visible="true"/>
+  <node id="-79" lat="22.550117000000114" lon="114.11637180000014" visible="true"/>
+  <node id="-80" lat="22.55055690000006" lon="114.11366950000001" visible="true"/>
+  <node id="-81" lat="22.550507999999923" lon="114.11360410000009" visible="true"/>
+  <node id="-82" lat="22.550290900000107" lon="114.11353870000005" visible="true"/>
+  <node id="-83" lat="22.550144300000056" lon="114.11345619999997" visible="true"/>
+  <node id="-84" lat="22.550022100000092" lon="114.11337990000004" visible="true"/>
+  <node id="-85" lat="22.549664099999916" lon="114.11301570000012" visible="true"/>
+  <node id="-86" lat="22.54877710000011" lon="114.11254710000003" visible="true"/>
+  <node id="-87" lat="22.54844930000013" lon="114.1122918000001" visible="true"/>
+  <node id="-88" lat="22.548128700000063" lon="114.11195710000004" visible="true"/>
+  <node id="-89" lat="22.547926000000018" lon="114.11163510000006" visible="true"/>
+  <way id="-29" visible="true">
+    <nd ref="-90"/>
+    <nd ref="-91"/>
+    <nd ref="-92"/>
+    <nd ref="-30"/>
+    <tag k="u" v="6876000335"/>
+    <tag k="v" v="2044364028"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31312614"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="25.485"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-90" lat="22.5469937" lon="114.1146014" visible="true"/>
+  <node id="-91" lat="22.5469505" lon="114.1146217" visible="true"/>
+  <node id="-92" lat="22.5469017" lon="114.1146359" visible="true"/>
+  <way id="-30" visible="true">
+    <nd ref="-90"/>
+    <nd ref="-93"/>
+    <nd ref="-94"/>
+    <nd ref="-95"/>
+    <tag k="u" v="6876000335"/>
+    <tag k="v" v="2765186632"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621318"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="69.801"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-93" lat="22.5471302" lon="114.114855" visible="true"/>
+  <node id="-94" lat="22.5471352" lon="114.1150991" visible="true"/>
+  <node id="-95" lat="22.5472371" lon="114.1151885" visible="true"/>
+  <way id="-31" visible="true">
+    <nd ref="-96"/>
+    <nd ref="-97"/>
+    <tag k="u" v="349909286"/>
+    <tag k="v" v="2765186749"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="38.567"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-96" lat="22.5482443" lon="114.1141684" visible="true"/>
+  <node id="-97" lat="22.5481239" lon="114.1145206" visible="true"/>
+  <way id="-32" visible="true">
+    <nd ref="-96"/>
+    <nd ref="-98"/>
+    <tag k="u" v="349909286"/>
+    <tag k="v" v="2765186548"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397374"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="38.528"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="????"/>
+  </way>
+  <node id="-98" lat="22.5479054" lon="114.1140903" visible="true"/>
+  <way id="-33" visible="true">
+    <nd ref="-96"/>
+    <nd ref="-99"/>
+    <tag k="u" v="349909286"/>
+    <tag k="v" v="2044364043"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397374"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="117.401"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="????"/>
+  </way>
+  <node id="-99" lat="22.5492836" lon="114.1143698" visible="true"/>
+  <way id="-34" visible="true">
+    <nd ref="-96"/>
+    <nd ref="-100"/>
+    <nd ref="-101"/>
+    <tag k="u" v="349909286"/>
+    <tag k="v" v="12449944889"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="82.89099999999999"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-100" lat="22.5483428" lon="114.1137833" visible="true"/>
+  <node id="-101" lat="22.5483896" lon="114.1133789" visible="true"/>
+  <way id="-35" visible="true">
+    <nd ref="-102"/>
+    <nd ref="-103"/>
+    <tag k="u" v="348410156"/>
+    <tag k="v" v="2765242342"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678168"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="20.618"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <node id="-102" lat="22.5499795" lon="114.1132441" visible="true"/>
+  <node id="-103" lat="22.5497995" lon="114.1132923" visible="true"/>
+  <way id="-36" visible="true">
+    <nd ref="-104"/>
+    <nd ref="-105"/>
+    <nd ref="-106"/>
+    <nd ref="-107"/>
+    <nd ref="-108"/>
+    <nd ref="-109"/>
+    <nd ref="-110"/>
+    <nd ref="-111"/>
+    <nd ref="-112"/>
+    <nd ref="-113"/>
+    <tag k="u" v="8258828669"/>
+    <tag k="v" v="7001101016"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047309"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="148.785"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="????"/>
+    <tag k="lanes" v="2"/>
+  </way>
+  <node id="-104" lat="22.5478285" lon="114.1167323" visible="true"/>
+  <node id="-105" lat="22.5477704" lon="114.1164243" visible="true"/>
+  <node id="-106" lat="22.5477431" lon="114.1163605" visible="true"/>
+  <node id="-107" lat="22.547705" lon="114.116301" visible="true"/>
+  <node id="-108" lat="22.5476517" lon="114.1162593" visible="true"/>
+  <node id="-109" lat="22.5471153" lon="114.1159169" visible="true"/>
+  <node id="-110" lat="22.5470639" lon="114.1158761" visible="true"/>
+  <node id="-111" lat="22.5470158" lon="114.1158221" visible="true"/>
+  <node id="-112" lat="22.5469751" lon="114.1157643" visible="true"/>
+  <node id="-113" lat="22.5469641" lon="114.1157372" visible="true"/>
+  <way id="-37" visible="true">
+    <nd ref="-114"/>
+    <nd ref="-115"/>
+    <nd ref="-116"/>
+    <tag k="u" v="8258828670"/>
+    <tag k="v" v="4802150355"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="66.212"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-114" lat="22.5482216" lon="114.1166357" visible="true"/>
+  <node id="-115" lat="22.5482097" lon="114.116528" visible="true"/>
+  <node id="-116" lat="22.5481641" lon="114.115994" visible="true"/>
+  <way id="-38" visible="true">
+    <nd ref="-117"/>
+    <nd ref="-118"/>
+    <nd ref="-119"/>
+    <nd ref="-120"/>
+    <nd ref="-121"/>
+    <tag k="u" v="8258828673"/>
+    <tag k="v" v="4802150354"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="63.197"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-117" lat="22.5487754" lon="114.1165041" visible="true"/>
+  <node id="-118" lat="22.5487736" lon="114.1164734" visible="true"/>
+  <node id="-119" lat="22.5487768" lon="114.116431" visible="true"/>
+  <node id="-120" lat="22.548784" lon="114.1163936" visible="true"/>
+  <node id="-121" lat="22.548929" lon="114.1159148" visible="true"/>
+  <way id="-39" visible="true">
+    <nd ref="-122"/>
+    <nd ref="-24"/>
+    <tag k="u" v="11508570500"/>
+    <tag k="v" v="12449944887"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043249"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="9.038"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-122" lat="22.5487452" lon="114.1133358" visible="true"/>
+  <way id="-40" visible="true">
+    <nd ref="-122"/>
+    <nd ref="-123"/>
+    <nd ref="-124"/>
+    <nd ref="-125"/>
+    <tag k="u" v="11508570500"/>
+    <tag k="v" v="2044364042"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927267"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="84.78"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-123" lat="22.5490953" lon="114.1134029" visible="true"/>
+  <node id="-124" lat="22.5492228" lon="114.113586" visible="true"/>
+  <node id="-125" lat="22.5494126" lon="114.113635" visible="true"/>
+  <way id="-41" visible="true">
+    <nd ref="-122"/>
+    <nd ref="-126"/>
+    <nd ref="-127"/>
+    <nd ref="-58"/>
+    <tag k="u" v="11508570500"/>
+    <tag k="v" v="2044364026"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927267"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="82.07499999999999"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-126" lat="22.548747" lon="114.1130933" visible="true"/>
+  <node id="-127" lat="22.5486918" lon="114.1128886" visible="true"/>
+  <way id="-42" visible="true">
+    <nd ref="-128"/>
+    <nd ref="-129"/>
+    <tag k="u" v="11508570568"/>
+    <tag k="v" v="11508570575"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849056"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="55.952"/>
+  </way>
+  <node id="-128" lat="22.5488961" lon="114.1152203" visible="true"/>
+  <node id="-129" lat="22.5487691" lon="114.1146931" visible="true"/>
+  <way id="-43" visible="true">
+    <nd ref="-128"/>
+    <nd ref="-129"/>
+    <tag k="u" v="11508570568"/>
+    <tag k="v" v="11508570575"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="55.952"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-44" visible="true">
+    <nd ref="-128"/>
+    <nd ref="-130"/>
+    <nd ref="-131"/>
+    <nd ref="-132"/>
+    <nd ref="-133"/>
+    <nd ref="-134"/>
+    <nd ref="-135"/>
+    <nd ref="-129"/>
+    <tag k="u" v="11508570568"/>
+    <tag k="v" v="11508570575"/>
+    <tag k="key" v="2"/>
+    <tag k="osmid" v="1238849056"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="132.796"/>
+  </way>
+  <node id="-130" lat="22.5486136" lon="114.1152934" visible="true"/>
+  <node id="-131" lat="22.548523" lon="114.11505" visible="true"/>
+  <node id="-132" lat="22.5484821" lon="114.1149019" visible="true"/>
+  <node id="-133" lat="22.5484714" lon="114.1148182" visible="true"/>
+  <node id="-134" lat="22.5484785" lon="114.1147191" visible="true"/>
+  <node id="-135" lat="22.5484981" lon="114.1146421" visible="true"/>
+  <way id="-45" visible="true">
+    <nd ref="-128"/>
+    <nd ref="-136"/>
+    <tag k="u" v="11508570568"/>
+    <tag k="v" v="11508570587"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="9.595"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <node id="-136" lat="22.5489489" lon="114.1152942" visible="true"/>
+  <way id="-46" visible="true">
+    <nd ref="-129"/>
+    <nd ref="-128"/>
+    <tag k="u" v="11508570575"/>
+    <tag k="v" v="11508570568"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849056"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="55.952"/>
+  </way>
+  <way id="-47" visible="true">
+    <nd ref="-129"/>
+    <nd ref="-128"/>
+    <tag k="u" v="11508570575"/>
+    <tag k="v" v="11508570568"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="55.952"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-48" visible="true">
+    <nd ref="-129"/>
+    <nd ref="-135"/>
+    <nd ref="-134"/>
+    <nd ref="-133"/>
+    <nd ref="-132"/>
+    <nd ref="-131"/>
+    <nd ref="-130"/>
+    <nd ref="-128"/>
+    <tag k="u" v="11508570575"/>
+    <tag k="v" v="11508570568"/>
+    <tag k="key" v="2"/>
+    <tag k="osmid" v="1238849056"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="132.796"/>
+  </way>
+  <way id="-49" visible="true">
+    <nd ref="-129"/>
+    <nd ref="-137"/>
+    <tag k="u" v="11508570575"/>
+    <tag k="v" v="12449937176"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="3.886"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <node id="-137" lat="22.5487744" lon="114.1146557" visible="true"/>
+  <way id="-50" visible="true">
+    <nd ref="-138"/>
+    <nd ref="-136"/>
+    <tag k="u" v="11508570576"/>
+    <tag k="v" v="11508570587"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849057"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="9.069"/>
+  </way>
+  <node id="-138" lat="22.5490261" lon="114.1153227" visible="true"/>
+  <way id="-51" visible="true">
+    <nd ref="-138"/>
+    <nd ref="-136"/>
+    <tag k="u" v="11508570576"/>
+    <tag k="v" v="11508570587"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="9.069"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-52" visible="true">
+    <nd ref="-138"/>
+    <nd ref="-139"/>
+    <nd ref="-140"/>
+    <nd ref="-141"/>
+    <nd ref="-142"/>
+    <nd ref="-143"/>
+    <nd ref="-144"/>
+    <nd ref="-145"/>
+    <nd ref="-146"/>
+    <nd ref="-147"/>
+    <nd ref="-148"/>
+    <nd ref="-149"/>
+    <nd ref="-150"/>
+    <nd ref="-151"/>
+    <nd ref="-152"/>
+    <nd ref="-136"/>
+    <tag k="u" v="11508570576"/>
+    <tag k="v" v="11508570587"/>
+    <tag k="key" v="2"/>
+    <tag k="osmid" v="1238849057"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="218.50900000000001"/>
+  </way>
+  <node id="-139" lat="22.5488557" lon="114.1158622" visible="true"/>
+  <node id="-140" lat="22.5487043" lon="114.1158061" visible="true"/>
+  <node id="-141" lat="22.548746" lon="114.115674" visible="true"/>
+  <node id="-142" lat="22.5488203" lon="114.1157016" visible="true"/>
+  <node id="-143" lat="22.5488355" lon="114.1156532" visible="true"/>
+  <node id="-144" lat="22.5487595" lon="114.115625" visible="true"/>
+  <node id="-145" lat="22.5488039" lon="114.1154845" visible="true"/>
+  <node id="-146" lat="22.5488799" lon="114.1155127" visible="true"/>
+  <node id="-147" lat="22.5489043" lon="114.1154356" visible="true"/>
+  <node id="-148" lat="22.5488606" lon="114.1154195" visible="true"/>
+  <node id="-149" lat="22.5486668" lon="114.1154376" visible="true"/>
+  <node id="-150" lat="22.5486596" lon="114.1153471" visible="true"/>
+  <node id="-151" lat="22.5488837" lon="114.1153261" visible="true"/>
+  <node id="-152" lat="22.5489331" lon="114.1153444" visible="true"/>
+  <way id="-53" visible="true">
+    <nd ref="-138"/>
+    <nd ref="-153"/>
+    <tag k="u" v="11508570576"/>
+    <tag k="v" v="12449937175"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="7.949"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <node id="-153" lat="22.5490963" lon="114.1153373" visible="true"/>
+  <way id="-54" visible="true">
+    <nd ref="-136"/>
+    <nd ref="-138"/>
+    <tag k="u" v="11508570587"/>
+    <tag k="v" v="11508570576"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849057"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="9.069"/>
+  </way>
+  <way id="-55" visible="true">
+    <nd ref="-136"/>
+    <nd ref="-138"/>
+    <tag k="u" v="11508570587"/>
+    <tag k="v" v="11508570576"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="9.069"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-56" visible="true">
+    <nd ref="-136"/>
+    <nd ref="-152"/>
+    <nd ref="-151"/>
+    <nd ref="-150"/>
+    <nd ref="-149"/>
+    <nd ref="-148"/>
+    <nd ref="-147"/>
+    <nd ref="-146"/>
+    <nd ref="-145"/>
+    <nd ref="-144"/>
+    <nd ref="-143"/>
+    <nd ref="-142"/>
+    <nd ref="-141"/>
+    <nd ref="-140"/>
+    <nd ref="-139"/>
+    <nd ref="-138"/>
+    <tag k="u" v="11508570587"/>
+    <tag k="v" v="11508570576"/>
+    <tag k="key" v="2"/>
+    <tag k="osmid" v="1238849057"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="218.509"/>
+  </way>
+  <way id="-57" visible="true">
+    <nd ref="-136"/>
+    <nd ref="-128"/>
+    <tag k="u" v="11508570587"/>
+    <tag k="v" v="11508570568"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="9.595"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-58" visible="true">
+    <nd ref="-154"/>
+    <nd ref="-155"/>
+    <tag k="u" v="11508570611"/>
+    <tag k="v" v="12449937172"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="12.51"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-154" lat="22.5492064" lon="114.1148394" visible="true"/>
+  <node id="-155" lat="22.5491841" lon="114.1149588" visible="true"/>
+  <way id="-59" visible="true">
+    <nd ref="-154"/>
+    <nd ref="-156"/>
+    <tag k="u" v="11508570611"/>
+    <tag k="v" v="2623148600"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849060"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="32.423"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-156" lat="22.5494928" lon="114.1148987" visible="true"/>
+  <way id="-60" visible="true">
+    <nd ref="-154"/>
+    <nd ref="-157"/>
+    <nd ref="-158"/>
+    <tag k="u" v="11508570611"/>
+    <tag k="v" v="12449937167"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="20.439"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-157" lat="22.5492233" lon="114.1147472" visible="true"/>
+  <node id="-158" lat="22.5492398" lon="114.1146437" visible="true"/>
+  <way id="-61" visible="true">
+    <nd ref="-159"/>
+    <nd ref="-160"/>
+    <tag k="u" v="11508570630"/>
+    <tag k="v" v="11508570631"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849064"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="31.818"/>
+  </way>
+  <node id="-159" lat="22.5494655" lon="114.1154136" visible="true"/>
+  <node id="-160" lat="22.5494178" lon="114.1157191" visible="true"/>
+  <way id="-62" visible="true">
+    <nd ref="-159"/>
+    <nd ref="-160"/>
+    <tag k="u" v="11508570630"/>
+    <tag k="v" v="11508570631"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="31.818"/>
+  </way>
+  <way id="-63" visible="true">
+    <nd ref="-159"/>
+    <nd ref="-161"/>
+    <tag k="u" v="11508570630"/>
+    <tag k="v" v="12450026841"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849064"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="2.346"/>
+  </way>
+  <node id="-161" lat="22.5494863" lon="114.1154174" visible="true"/>
+  <way id="-64" visible="true">
+    <nd ref="-159"/>
+    <nd ref="-161"/>
+    <tag k="u" v="11508570630"/>
+    <tag k="v" v="12450026841"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="2.346"/>
+  </way>
+  <way id="-65" visible="true">
+    <nd ref="-160"/>
+    <nd ref="-159"/>
+    <tag k="u" v="11508570631"/>
+    <tag k="v" v="11508570630"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849064"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="31.818"/>
+  </way>
+  <way id="-66" visible="true">
+    <nd ref="-160"/>
+    <nd ref="-159"/>
+    <tag k="u" v="11508570631"/>
+    <tag k="v" v="11508570630"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="31.818"/>
+  </way>
+  <way id="-67" visible="true">
+    <nd ref="-160"/>
+    <nd ref="-162"/>
+    <tag k="u" v="11508570631"/>
+    <tag k="v" v="12450026845"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="2.514"/>
+  </way>
+  <node id="-162" lat="22.5493953" lon="114.1157167" visible="true"/>
+  <way id="-68" visible="true">
+    <nd ref="-160"/>
+    <nd ref="-163"/>
+    <nd ref="-164"/>
+    <nd ref="-165"/>
+    <nd ref="-166"/>
+    <nd ref="-167"/>
+    <nd ref="-161"/>
+    <tag k="u" v="11508570631"/>
+    <tag k="v" v="12450026841"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849064"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="67.218"/>
+  </way>
+  <node id="-163" lat="22.5495986" lon="114.1157522" visible="true"/>
+  <node id="-164" lat="22.5496307" lon="114.1155467" visible="true"/>
+  <node id="-165" lat="22.5495872" lon="114.1154919" visible="true"/>
+  <node id="-166" lat="22.5495386" lon="114.115483" visible="true"/>
+  <node id="-167" lat="22.5495471" lon="114.1154286" visible="true"/>
+  <way id="-69" visible="true">
+    <nd ref="-168"/>
+    <nd ref="-169"/>
+    <nd ref="-170"/>
+    <tag k="u" v="2760370694"/>
+    <tag k="v" v="2765186549"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="663558699"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="42.239999999999995"/>
+    <tag k="highway" v="primary_link"/>
+  </way>
+  <node id="-168" lat="22.5455961" lon="114.1113171" visible="true"/>
+  <node id="-169" lat="22.5456135" lon="114.1109984" visible="true"/>
+  <node id="-170" lat="22.5456161" lon="114.1109064" visible="true"/>
+  <way id="-70" visible="true">
+    <nd ref="-171"/>
+    <nd ref="-172"/>
+    <tag k="u" v="9230070317"/>
+    <tag k="v" v="2044364022"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927262"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="4.901"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-171" lat="22.5460655" lon="114.1133291" visible="true"/>
+  <node id="-172" lat="22.546109" lon="114.1133214" visible="true"/>
+  <way id="-71" visible="true">
+    <nd ref="-171"/>
+    <nd ref="-173"/>
+    <tag k="u" v="9230070317"/>
+    <tag k="v" v="9230070318"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="999900138"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="64.651"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-173" lat="22.5461642" lon="114.1139495" visible="true"/>
+  <way id="-72" visible="true">
+    <nd ref="-171"/>
+    <nd ref="-174"/>
+    <nd ref="-175"/>
+    <tag k="u" v="9230070317"/>
+    <tag k="v" v="9230070319"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="[999900138, 999900139]"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="[false, true]"/>
+    <tag k="length" v="51.542"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="[&quot;steps&quot;, &quot;footway&quot;]"/>
+  </way>
+  <node id="-174" lat="22.5460016" lon="114.1129277" visible="true"/>
+  <node id="-175" lat="22.5459868" lon="114.1128345" visible="true"/>
+  <way id="-73" visible="true">
+    <nd ref="-173"/>
+    <nd ref="-176"/>
+    <tag k="u" v="9230070318"/>
+    <tag k="v" v="2044364023"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927262"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="5.68"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-176" lat="22.5462151" lon="114.1139449" visible="true"/>
+  <way id="-74" visible="true">
+    <nd ref="-173"/>
+    <nd ref="-171"/>
+    <tag k="u" v="9230070318"/>
+    <tag k="v" v="9230070317"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="999900138"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="64.651"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-75" visible="true">
+    <nd ref="-173"/>
+    <nd ref="-177"/>
+    <nd ref="-178"/>
+    <tag k="u" v="9230070318"/>
+    <tag k="v" v="9230070320"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="[999900138, 999900140]"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="54.659"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="[&quot;steps&quot;, &quot;footway&quot;]"/>
+  </way>
+  <node id="-177" lat="22.5462344" lon="114.1143906" visible="true"/>
+  <node id="-178" lat="22.5462477" lon="114.114474" visible="true"/>
+  <way id="-76" visible="true">
+    <nd ref="-175"/>
+    <nd ref="-174"/>
+    <nd ref="-171"/>
+    <tag k="u" v="9230070319"/>
+    <tag k="v" v="9230070317"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="[999900138, 999900139]"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="[false, true]"/>
+    <tag k="length" v="51.542"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="[&quot;steps&quot;, &quot;footway&quot;]"/>
+  </way>
+  <way id="-77" visible="true">
+    <nd ref="-178"/>
+    <nd ref="-177"/>
+    <nd ref="-173"/>
+    <tag k="u" v="9230070320"/>
+    <tag k="v" v="9230070318"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="[999900138, 999900140]"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="54.659"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="[&quot;steps&quot;, &quot;footway&quot;]"/>
+  </way>
+  <way id="-78" visible="true">
+    <nd ref="-179"/>
+    <nd ref="-180"/>
+    <tag k="u" v="2623148598"/>
+    <tag k="v" v="7001101023"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678167"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="13.642"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <node id="-179" lat="22.5492852" lon="114.1163914" visible="true"/>
+  <node id="-180" lat="22.5493005" lon="114.1162596" visible="true"/>
+  <way id="-79" visible="true">
+    <nd ref="-156"/>
+    <nd ref="-181"/>
+    <tag k="u" v="2623148600"/>
+    <tag k="v" v="2623148601"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621324"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="49.584"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <node id="-181" lat="22.5495723" lon="114.1144236" visible="true"/>
+  <way id="-80" visible="true">
+    <nd ref="-156"/>
+    <nd ref="-182"/>
+    <tag k="u" v="2623148600"/>
+    <tag k="v" v="12449937178"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621324"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="21.304"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <node id="-182" lat="22.5494585" lon="114.1151028" visible="true"/>
+  <way id="-81" visible="true">
+    <nd ref="-156"/>
+    <nd ref="-154"/>
+    <tag k="u" v="2623148600"/>
+    <tag k="v" v="11508570611"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849060"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="32.423"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-82" visible="true">
+    <nd ref="-181"/>
+    <nd ref="-99"/>
+    <tag k="u" v="2623148601"/>
+    <tag k="v" v="2044364043"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397374"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="32.574"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="????"/>
+  </way>
+  <way id="-83" visible="true">
+    <nd ref="-181"/>
+    <nd ref="-183"/>
+    <tag k="u" v="2623148601"/>
+    <tag k="v" v="7001101032"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397374"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="51.958"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="????"/>
+  </way>
+  <node id="-183" lat="22.550032" lon="114.1145143" visible="true"/>
+  <way id="-84" visible="true">
+    <nd ref="-181"/>
+    <nd ref="-156"/>
+    <tag k="u" v="2623148601"/>
+    <tag k="v" v="2623148600"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621324"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="49.584"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-85" visible="true">
+    <nd ref="-181"/>
+    <nd ref="-184"/>
+    <nd ref="-103"/>
+    <tag k="u" v="2623148601"/>
+    <tag k="v" v="2765242342"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621324"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="118.986"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <node id="-184" lat="22.5497406" lon="114.1135013" visible="true"/>
+  <way id="-86" visible="true">
+    <nd ref="-185"/>
+    <nd ref="-186"/>
+    <tag k="u" v="2456799878"/>
+    <tag k="v" v="2044364017"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="237813001"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="65.586"/>
+    <tag k="highway" v="construction"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-185" lat="22.5458144" lon="114.1126643" visible="true"/>
+  <node id="-186" lat="22.546396" lon="114.112558" visible="true"/>
+  <way id="-87" visible="true">
+    <nd ref="-185"/>
+    <nd ref="-187"/>
+    <tag k="u" v="2456799878"/>
+    <tag k="v" v="2765186532"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="996321281"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="53.676"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="????"/>
+  </way>
+  <node id="-187" lat="22.545731" lon="114.1121495" visible="true"/>
+  <way id="-88" visible="true">
+    <nd ref="-188"/>
+    <nd ref="-30"/>
+    <tag k="u" v="8630764185"/>
+    <tag k="v" v="2044364028"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047309"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="51.06"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="????"/>
+    <tag k="lanes" v="2"/>
+  </way>
+  <node id="-188" lat="22.5468529" lon="114.1151486" visible="true"/>
+  <way id="-89" visible="true">
+    <nd ref="-189"/>
+    <nd ref="-183"/>
+    <tag k="u" v="348406481"/>
+    <tag k="v" v="7001101032"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397374"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="47.167"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="????"/>
+  </way>
+  <node id="-189" lat="22.55040803073886" lon="114.11458400194275" visible="true"/>
+  <way id="-90" visible="true">
+    <nd ref="-113"/>
+    <nd ref="-190"/>
+    <nd ref="-191"/>
+    <nd ref="-188"/>
+    <tag k="u" v="7001101016"/>
+    <tag k="v" v="8630764185"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047309"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="61.816"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="????"/>
+    <tag k="lanes" v="2"/>
+  </way>
+  <node id="-190" lat="22.5469479" lon="114.1156973" visible="true"/>
+  <node id="-191" lat="22.5469282" lon="114.1156032" visible="true"/>
+  <way id="-91" visible="true">
+    <nd ref="-113"/>
+    <nd ref="-192"/>
+    <nd ref="-193"/>
+    <nd ref="-194"/>
+    <nd ref="-195"/>
+    <nd ref="-196"/>
+    <nd ref="-197"/>
+    <nd ref="-188"/>
+    <tag k="u" v="7001101016"/>
+    <tag k="v" v="8630764185"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="930851738"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="63.052"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <node id="-192" lat="22.5469704" lon="114.1156528" visible="true"/>
+  <node id="-193" lat="22.5469704" lon="114.1155885" visible="true"/>
+  <node id="-194" lat="22.5469639" lon="114.1155325" visible="true"/>
+  <node id="-195" lat="22.5469218" lon="114.1152745" visible="true"/>
+  <node id="-196" lat="22.5469046" lon="114.115236" visible="true"/>
+  <node id="-197" lat="22.5468852" lon="114.1152033" visible="true"/>
+  <way id="-92" visible="true">
+    <nd ref="-113"/>
+    <nd ref="-198"/>
+    <nd ref="-199"/>
+    <nd ref="-200"/>
+    <nd ref="-95"/>
+    <tag k="u" v="7001101016"/>
+    <tag k="v" v="2765186632"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621318"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="80.382"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-198" lat="22.5471402" lon="114.1157214" visible="true"/>
+  <node id="-199" lat="22.5472021" lon="114.115657" visible="true"/>
+  <node id="-200" lat="22.5472838" lon="114.1155202" visible="true"/>
+  <way id="-93" visible="true">
+    <nd ref="-201"/>
+    <nd ref="-202"/>
+    <tag k="u" v="7001101022"/>
+    <tag k="v" v="7001101024"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621320"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="35.452"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <node id="-201" lat="22.5493318" lon="114.1160912" visible="true"/>
+  <node id="-202" lat="22.5493906" lon="114.1157519" visible="true"/>
+  <way id="-94" visible="true">
+    <nd ref="-201"/>
+    <nd ref="-203"/>
+    <tag k="u" v="7001101022"/>
+    <tag k="v" v="8589576956"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051848"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="5.899"/>
+  </way>
+  <node id="-203" lat="22.5492836" lon="114.1161152" visible="true"/>
+  <way id="-95" visible="true">
+    <nd ref="-201"/>
+    <nd ref="-121"/>
+    <tag k="u" v="7001101022"/>
+    <tag k="v" v="4802150354"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051849"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="48.314"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-96" visible="true">
+    <nd ref="-201"/>
+    <nd ref="-204"/>
+    <nd ref="-205"/>
+    <tag k="u" v="7001101022"/>
+    <tag k="v" v="12450026847"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051848"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="9.464"/>
+  </way>
+  <node id="-204" lat="22.5493783" lon="114.1160681" visible="true"/>
+  <node id="-205" lat="22.549405" lon="114.1160454" visible="true"/>
+  <way id="-97" visible="true">
+    <nd ref="-180"/>
+    <nd ref="-201"/>
+    <tag k="u" v="7001101023"/>
+    <tag k="v" v="7001101022"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621321"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="17.64"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="-98" visible="true">
+    <nd ref="-180"/>
+    <nd ref="-206"/>
+    <tag k="u" v="7001101023"/>
+    <tag k="v" v="8589576962"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051848"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="7.505"/>
+  </way>
+  <node id="-206" lat="22.5492353" lon="114.1162785" visible="true"/>
+  <way id="-99" visible="true">
+    <nd ref="-180"/>
+    <nd ref="-207"/>
+    <tag k="u" v="7001101023"/>
+    <tag k="v" v="1926671175"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051848"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="8.037"/>
+  </way>
+  <node id="-207" lat="22.5493703" lon="114.1162393" visible="true"/>
+  <way id="-100" visible="true">
+    <nd ref="-202"/>
+    <nd ref="-208"/>
+    <tag k="u" v="7001101024"/>
+    <tag k="v" v="7001101025"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621323"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="95.138"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <node id="-208" lat="22.5502328" lon="114.1159152" visible="true"/>
+  <way id="-101" visible="true">
+    <nd ref="-202"/>
+    <nd ref="-162"/>
+    <tag k="u" v="7001101024"/>
+    <tag k="v" v="12450026845"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051847"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="3.652"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-102" visible="true">
+    <nd ref="-209"/>
+    <nd ref="-210"/>
+    <tag k="u" v="7001101027"/>
+    <tag k="v" v="7001101028"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621325"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="48.701"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <node id="-209" lat="22.5502755" lon="114.1156549" visible="true"/>
+  <node id="-210" lat="22.5498461" lon="114.1155615" visible="true"/>
+  <way id="-103" visible="true">
+    <nd ref="-210"/>
+    <nd ref="-209"/>
+    <tag k="u" v="7001101028"/>
+    <tag k="v" v="7001101027"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621325"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="48.701"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="-104" visible="true">
+    <nd ref="-210"/>
+    <nd ref="-183"/>
+    <tag k="u" v="7001101028"/>
+    <tag k="v" v="7001101032"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621327"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="109.51"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-105" visible="true">
+    <nd ref="-210"/>
+    <nd ref="-211"/>
+    <nd ref="-212"/>
+    <nd ref="-213"/>
+    <tag k="u" v="7001101028"/>
+    <tag k="v" v="12450026843"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621326"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="53.425"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-211" lat="22.549685" lon="114.1155265" visible="true"/>
+  <node id="-212" lat="22.5495568" lon="114.115367" visible="true"/>
+  <node id="-213" lat="22.5494796" lon="114.1152663" visible="true"/>
+  <way id="-106" visible="true">
+    <nd ref="-183"/>
+    <nd ref="-181"/>
+    <tag k="u" v="7001101032"/>
+    <tag k="v" v="2623148601"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397374"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="51.958"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="????"/>
+  </way>
+  <way id="-107" visible="true">
+    <nd ref="-183"/>
+    <nd ref="-214"/>
+    <tag k="u" v="7001101032"/>
+    <tag k="v" v="348406481"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397374"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="47.167"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="????"/>
+  </way>
+  <node id="-214" lat="22.5504501" lon="114.1145918" visible="true"/>
+  <way id="-108" visible="true">
+    <nd ref="-183"/>
+    <nd ref="-210"/>
+    <tag k="u" v="7001101032"/>
+    <tag k="v" v="7001101028"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621327"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="109.51"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-109" visible="true">
+    <nd ref="-203"/>
+    <nd ref="-206"/>
+    <tag k="u" v="8589576956"/>
+    <tag k="v" v="8589576962"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545829"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="17.609"/>
+    <tag k="name" v="??????"/>
+  </way>
+  <way id="-110" visible="true">
+    <nd ref="-203"/>
+    <nd ref="-206"/>
+    <tag k="u" v="8589576956"/>
+    <tag k="v" v="8589576962"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051848"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="17.609"/>
+  </way>
+  <way id="-111" visible="true">
+    <nd ref="-203"/>
+    <nd ref="-215"/>
+    <nd ref="-216"/>
+    <nd ref="-217"/>
+    <nd ref="-218"/>
+    <nd ref="-219"/>
+    <nd ref="-206"/>
+    <tag k="u" v="8589576956"/>
+    <tag k="v" v="8589576962"/>
+    <tag k="key" v="2"/>
+    <tag k="osmid" v="925545829"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="117.95800000000003"/>
+    <tag k="name" v="??????"/>
+  </way>
+  <node id="-215" lat="22.5489592" lon="114.1159642" visible="true"/>
+  <node id="-216" lat="22.5488682" lon="114.1162507" visible="true"/>
+  <node id="-217" lat="22.5488739" lon="114.1162969" visible="true"/>
+  <node id="-218" lat="22.5488938" lon="114.1163308" visible="true"/>
+  <node id="-219" lat="22.5489308" lon="114.1163401" visible="true"/>
+  <way id="-112" visible="true">
+    <nd ref="-203"/>
+    <nd ref="-201"/>
+    <tag k="u" v="8589576956"/>
+    <tag k="v" v="7001101022"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051848"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="5.899"/>
+  </way>
+  <way id="-113" visible="true">
+    <nd ref="-206"/>
+    <nd ref="-203"/>
+    <tag k="u" v="8589576962"/>
+    <tag k="v" v="8589576956"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545829"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="17.609"/>
+    <tag k="name" v="??????"/>
+  </way>
+  <way id="-114" visible="true">
+    <nd ref="-206"/>
+    <nd ref="-203"/>
+    <tag k="u" v="8589576962"/>
+    <tag k="v" v="8589576956"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051848"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="17.609"/>
+  </way>
+  <way id="-115" visible="true">
+    <nd ref="-206"/>
+    <nd ref="-219"/>
+    <nd ref="-218"/>
+    <nd ref="-217"/>
+    <nd ref="-216"/>
+    <nd ref="-215"/>
+    <nd ref="-203"/>
+    <tag k="u" v="8589576962"/>
+    <tag k="v" v="8589576956"/>
+    <tag k="key" v="2"/>
+    <tag k="osmid" v="925545829"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="117.958"/>
+    <tag k="name" v="??????"/>
+  </way>
+  <way id="-116" visible="true">
+    <nd ref="-206"/>
+    <nd ref="-180"/>
+    <tag k="u" v="8589576962"/>
+    <tag k="v" v="7001101023"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051848"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="7.505"/>
+  </way>
+  <way id="-117" visible="true">
+    <nd ref="-220"/>
+    <nd ref="-221"/>
+    <tag k="u" v="8589576990"/>
+    <tag k="v" v="8589576991"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545833"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="5.459"/>
+  </way>
+  <node id="-220" lat="22.54937" lon="114.115672" visible="true"/>
+  <node id="-221" lat="22.5493249" lon="114.115651" visible="true"/>
+  <way id="-118" visible="true">
+    <nd ref="-220"/>
+    <nd ref="-221"/>
+    <tag k="u" v="8589576990"/>
+    <tag k="v" v="8589576991"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="5.459"/>
+  </way>
+  <way id="-119" visible="true">
+    <nd ref="-220"/>
+    <nd ref="-222"/>
+    <tag k="u" v="8589576990"/>
+    <tag k="v" v="12450026842"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545833"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="4.313"/>
+  </way>
+  <node id="-222" lat="22.549362" lon="114.1157131" visible="true"/>
+  <way id="-120" visible="true">
+    <nd ref="-220"/>
+    <nd ref="-222"/>
+    <tag k="u" v="8589576990"/>
+    <tag k="v" v="12450026842"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="4.313"/>
+  </way>
+  <way id="-121" visible="true">
+    <nd ref="-221"/>
+    <nd ref="-223"/>
+    <tag k="u" v="8589576991"/>
+    <tag k="v" v="8589576992"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545833"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="38.713"/>
+  </way>
+  <node id="-223" lat="22.549406" lon="114.1152844" visible="true"/>
+  <way id="-122" visible="true">
+    <nd ref="-221"/>
+    <nd ref="-223"/>
+    <tag k="u" v="8589576991"/>
+    <tag k="v" v="8589576992"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="38.713"/>
+  </way>
+  <way id="-123" visible="true">
+    <nd ref="-221"/>
+    <nd ref="-220"/>
+    <tag k="u" v="8589576991"/>
+    <tag k="v" v="8589576990"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545833"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="5.459"/>
+  </way>
+  <way id="-124" visible="true">
+    <nd ref="-221"/>
+    <nd ref="-220"/>
+    <tag k="u" v="8589576991"/>
+    <tag k="v" v="8589576990"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="5.459"/>
+  </way>
+  <way id="-125" visible="true">
+    <nd ref="-223"/>
+    <nd ref="-221"/>
+    <tag k="u" v="8589576992"/>
+    <tag k="v" v="8589576991"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545833"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="38.713"/>
+  </way>
+  <way id="-126" visible="true">
+    <nd ref="-223"/>
+    <nd ref="-221"/>
+    <tag k="u" v="8589576992"/>
+    <tag k="v" v="8589576991"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="38.713"/>
+  </way>
+  <way id="-127" visible="true">
+    <nd ref="-223"/>
+    <nd ref="-224"/>
+    <tag k="u" v="8589576992"/>
+    <tag k="v" v="12450026844"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="10.282"/>
+  </way>
+  <node id="-224" lat="22.5494566" lon="114.1153682" visible="true"/>
+  <way id="-128" visible="true">
+    <nd ref="-223"/>
+    <nd ref="-225"/>
+    <nd ref="-226"/>
+    <nd ref="-227"/>
+    <nd ref="-228"/>
+    <nd ref="-229"/>
+    <nd ref="-230"/>
+    <nd ref="-231"/>
+    <nd ref="-232"/>
+    <tag k="u" v="8589576992"/>
+    <tag k="v" v="8589577000"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545833"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="36.964"/>
+  </way>
+  <node id="-225" lat="22.5494073" lon="114.1152635" visible="true"/>
+  <node id="-226" lat="22.5493893" lon="114.1152425" visible="true"/>
+  <node id="-227" lat="22.5493957" lon="114.1151812" visible="true"/>
+  <node id="-228" lat="22.5494022" lon="114.1151491" visible="true"/>
+  <node id="-229" lat="22.5493957" lon="114.1151212" visible="true"/>
+  <node id="-230" lat="22.5493301" lon="114.1151129" visible="true"/>
+  <node id="-231" lat="22.5492592" lon="114.1150989" visible="true"/>
+  <node id="-232" lat="22.5492258" lon="114.1151087" visible="true"/>
+  <way id="-129" visible="true">
+    <nd ref="-232"/>
+    <nd ref="-233"/>
+    <tag k="u" v="8589577000"/>
+    <tag k="v" v="8589577001"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545833"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="2.55"/>
+  </way>
+  <node id="-233" lat="22.5492116" lon="114.1151282" visible="true"/>
+  <way id="-130" visible="true">
+    <nd ref="-232"/>
+    <nd ref="-233"/>
+    <tag k="u" v="8589577000"/>
+    <tag k="v" v="8589577001"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="2.55"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-131" visible="true">
+    <nd ref="-232"/>
+    <nd ref="-234"/>
+    <tag k="u" v="8589577000"/>
+    <tag k="v" v="12449937179"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="5.279"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <node id="-234" lat="22.549216" lon="114.1150584" visible="true"/>
+  <way id="-132" visible="true">
+    <nd ref="-232"/>
+    <nd ref="-231"/>
+    <nd ref="-230"/>
+    <nd ref="-229"/>
+    <nd ref="-228"/>
+    <nd ref="-227"/>
+    <nd ref="-226"/>
+    <nd ref="-225"/>
+    <nd ref="-223"/>
+    <tag k="u" v="8589577000"/>
+    <tag k="v" v="8589576992"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545833"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="36.964"/>
+  </way>
+  <way id="-133" visible="true">
+    <nd ref="-233"/>
+    <nd ref="-235"/>
+    <tag k="u" v="8589577001"/>
+    <tag k="v" v="12449937174"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545833"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="15.121"/>
+  </way>
+  <node id="-235" lat="22.5491832" lon="114.1152722" visible="true"/>
+  <way id="-134" visible="true">
+    <nd ref="-233"/>
+    <nd ref="-235"/>
+    <tag k="u" v="8589577001"/>
+    <tag k="v" v="12449937174"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="15.121"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-135" visible="true">
+    <nd ref="-233"/>
+    <nd ref="-232"/>
+    <tag k="u" v="8589577001"/>
+    <tag k="v" v="8589577000"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545833"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="2.55"/>
+  </way>
+  <way id="-136" visible="true">
+    <nd ref="-233"/>
+    <nd ref="-232"/>
+    <tag k="u" v="8589577001"/>
+    <tag k="v" v="8589577000"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="2.55"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-137" visible="true">
+    <nd ref="-207"/>
+    <nd ref="-205"/>
+    <tag k="u" v="1926671175"/>
+    <tag k="v" v="12450026847"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="182315044"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="20.283"/>
+    <tag k="name" v="???????"/>
+  </way>
+  <way id="-138" visible="true">
+    <nd ref="-207"/>
+    <nd ref="-205"/>
+    <tag k="u" v="1926671175"/>
+    <tag k="v" v="12450026847"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051848"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="20.283"/>
+  </way>
+  <way id="-139" visible="true">
+    <nd ref="-207"/>
+    <nd ref="-180"/>
+    <tag k="u" v="1926671175"/>
+    <tag k="v" v="7001101023"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051848"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="8.037"/>
+  </way>
+  <way id="-140" visible="true">
+    <nd ref="-207"/>
+    <nd ref="-236"/>
+    <nd ref="-237"/>
+    <tag k="u" v="1926671175"/>
+    <tag k="v" v="6210847977"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="182315044"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="56.063"/>
+    <tag k="name" v="???????"/>
+  </way>
+  <node id="-236" lat="22.5495016" lon="114.1162158" visible="true"/>
+  <node id="-237" lat="22.5498659" lon="114.1162924" visible="true"/>
+  <way id="-141" visible="true">
+    <nd ref="-238"/>
+    <nd ref="-56"/>
+    <tag k="u" v="348429248"/>
+    <tag k="v" v="2044364021"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31312614"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="63.519"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-238" lat="22.547682" lon="114.1120668" visible="true"/>
+  <way id="-142" visible="true">
+    <nd ref="-238"/>
+    <nd ref="-239"/>
+    <tag k="u" v="348429248"/>
+    <tag k="v" v="12449944868"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="6.616"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-239" lat="22.5477407" lon="114.1120563" visible="true"/>
+  <way id="-143" visible="true">
+    <nd ref="-238"/>
+    <nd ref="-240"/>
+    <tag k="u" v="348429248"/>
+    <tag k="v" v="2044364020"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927266"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="76.608"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-240" lat="22.5469949" lon="114.1121214" visible="true"/>
+  <way id="-144" visible="true">
+    <nd ref="-241"/>
+    <nd ref="-60"/>
+    <tag k="u" v="348429244"/>
+    <tag k="v" v="11508563892"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31312614"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="1.119"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-241" lat="22.5476968" lon="114.1114265" visible="true"/>
+  <way id="-145" visible="true">
+    <nd ref="-33"/>
+    <nd ref="-98"/>
+    <tag k="u" v="348429259"/>
+    <tag k="v" v="2765186548"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621319"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="46.573"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="????"/>
+  </way>
+  <way id="-146" visible="true">
+    <nd ref="-33"/>
+    <nd ref="-242"/>
+    <nd ref="-243"/>
+    <nd ref="-244"/>
+    <nd ref="-245"/>
+    <nd ref="-246"/>
+    <nd ref="-247"/>
+    <nd ref="-248"/>
+    <nd ref="-249"/>
+    <nd ref="-250"/>
+    <nd ref="-251"/>
+    <nd ref="-90"/>
+    <tag k="u" v="348429259"/>
+    <tag k="v" v="6876000335"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31312614"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="94.569"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-242" lat="22.5474619" lon="114.1139951" visible="true"/>
+  <node id="-243" lat="22.5474048" lon="114.1139936" visible="true"/>
+  <node id="-244" lat="22.5473485" lon="114.1139915" visible="true"/>
+  <node id="-245" lat="22.5473137" lon="114.1139982" visible="true"/>
+  <node id="-246" lat="22.5472757" lon="114.1140142" visible="true"/>
+  <node id="-247" lat="22.5472388" lon="114.114044" visible="true"/>
+  <node id="-248" lat="22.5472186" lon="114.1140757" visible="true"/>
+  <node id="-249" lat="22.5471983" lon="114.1141237" visible="true"/>
+  <node id="-250" lat="22.5470519" lon="114.1145302" visible="true"/>
+  <node id="-251" lat="22.5470293" lon="114.1145709" visible="true"/>
+  <way id="-147" visible="true">
+    <nd ref="-33"/>
+    <nd ref="-32"/>
+    <nd ref="-26"/>
+    <tag k="u" v="348429259"/>
+    <tag k="v" v="12958431269"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1410266840"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="58.626999999999995"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-148" visible="true">
+    <nd ref="-252"/>
+    <nd ref="-253"/>
+    <tag k="u" v="8254932667"/>
+    <tag k="v" v="6302897877"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047314"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="13.64"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <node id="-252" lat="22.5478697" lon="114.1121035" visible="true"/>
+  <node id="-253" lat="22.5479857" lon="114.1121467" visible="true"/>
+  <way id="-149" visible="true">
+    <nd ref="-252"/>
+    <nd ref="-253"/>
+    <tag k="u" v="8254932667"/>
+    <tag k="v" v="6302897877"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="13.64"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-150" visible="true">
+    <nd ref="-252"/>
+    <nd ref="-254"/>
+    <tag k="u" v="8254932667"/>
+    <tag k="v" v="6302897876"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047314"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="14.614"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <node id="-254" lat="22.5477394" lon="114.1120849" visible="true"/>
+  <way id="-151" visible="true">
+    <nd ref="-252"/>
+    <nd ref="-254"/>
+    <tag k="u" v="8254932667"/>
+    <tag k="v" v="6302897876"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="14.614"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-152" visible="true">
+    <nd ref="-255"/>
+    <nd ref="-256"/>
+    <tag k="u" v="8254932668"/>
+    <tag k="v" v="6302897878"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047314"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="11.378"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <node id="-255" lat="22.5480733" lon="114.112221" visible="true"/>
+  <node id="-256" lat="22.5481437" lon="114.1123014" visible="true"/>
+  <way id="-153" visible="true">
+    <nd ref="-255"/>
+    <nd ref="-256"/>
+    <tag k="u" v="8254932668"/>
+    <tag k="v" v="6302897878"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="11.378"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-154" visible="true">
+    <nd ref="-255"/>
+    <nd ref="-253"/>
+    <tag k="u" v="8254932668"/>
+    <tag k="v" v="6302897877"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047314"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="12.373"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <way id="-155" visible="true">
+    <nd ref="-255"/>
+    <nd ref="-253"/>
+    <tag k="u" v="8254932668"/>
+    <tag k="v" v="6302897877"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="12.373"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-156" visible="true">
+    <nd ref="-257"/>
+    <nd ref="-258"/>
+    <tag k="u" v="8254932669"/>
+    <tag k="v" v="12449944873"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047314"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="9.462"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <node id="-257" lat="22.5481997" lon="114.1124027" visible="true"/>
+  <node id="-258" lat="22.5482285" lon="114.1124894" visible="true"/>
+  <way id="-157" visible="true">
+    <nd ref="-257"/>
+    <nd ref="-258"/>
+    <tag k="u" v="8254932669"/>
+    <tag k="v" v="12449944873"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="9.462"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-158" visible="true">
+    <nd ref="-257"/>
+    <nd ref="-256"/>
+    <tag k="u" v="8254932669"/>
+    <tag k="v" v="6302897878"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047314"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="12.124"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <way id="-159" visible="true">
+    <nd ref="-257"/>
+    <nd ref="-256"/>
+    <tag k="u" v="8254932669"/>
+    <tag k="v" v="6302897878"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="12.124"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-160" visible="true">
+    <nd ref="-259"/>
+    <nd ref="-260"/>
+    <nd ref="-261"/>
+    <nd ref="-172"/>
+    <tag k="u" v="12333989057"/>
+    <tag k="v" v="2044364022"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="523229000"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="263.144"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <node id="-259" lat="22.5466439" lon="114.1141932" visible="true"/>
+  <node id="-260" lat="22.5463834" lon="114.1126624" visible="true"/>
+  <node id="-261" lat="22.5460096" lon="114.112737" visible="true"/>
+  <way id="-161" visible="true">
+    <nd ref="-259"/>
+    <nd ref="-262"/>
+    <nd ref="-263"/>
+    <nd ref="-176"/>
+    <tag k="u" v="12333989057"/>
+    <tag k="v" v="2044364023"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="523229000"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="156.03699999999998"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <node id="-262" lat="22.5467091" lon="114.1145765" visible="true"/>
+  <node id="-263" lat="22.5463353" lon="114.1146511" visible="true"/>
+  <way id="-162" visible="true">
+    <nd ref="-259"/>
+    <nd ref="-264"/>
+    <nd ref="-265"/>
+    <tag k="u" v="12333989057"/>
+    <tag k="v" v="12333989058"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="[1333150678, 1333150679]"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="18.701"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-264" lat="22.5467385" lon="114.1141696" visible="true"/>
+  <node id="-265" lat="22.5468078" lon="114.1141524" visible="true"/>
+  <way id="-163" visible="true">
+    <nd ref="-259"/>
+    <nd ref="-266"/>
+    <nd ref="-267"/>
+    <tag k="u" v="12333989057"/>
+    <tag k="v" v="12333989062"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1333150680"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="60.834"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-266" lat="22.5463939" lon="114.1142445" visible="true"/>
+  <node id="-267" lat="22.5463484" lon="114.1139315" visible="true"/>
+  <way id="-164" visible="true">
+    <nd ref="-265"/>
+    <nd ref="-268"/>
+    <nd ref="-269"/>
+    <nd ref="-270"/>
+    <nd ref="-271"/>
+    <nd ref="-272"/>
+    <nd ref="-273"/>
+    <nd ref="-274"/>
+    <nd ref="-275"/>
+    <nd ref="-276"/>
+    <nd ref="-277"/>
+    <nd ref="-278"/>
+    <nd ref="-279"/>
+    <nd ref="-265"/>
+    <tag k="u" v="12333989058"/>
+    <tag k="v" v="12333989058"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849042"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="226.57999999999998"/>
+  </way>
+  <node id="-268" lat="22.5467749" lon="114.1139763" visible="true"/>
+  <node id="-269" lat="22.5468913" lon="114.1139508" visible="true"/>
+  <node id="-270" lat="22.5469352" lon="114.1141858" visible="true"/>
+  <node id="-271" lat="22.546965" lon="114.1141793" visible="true"/>
+  <node id="-272" lat="22.5470554" lon="114.113929" visible="true"/>
+  <node id="-273" lat="22.5471625" lon="114.1139744" visible="true"/>
+  <node id="-274" lat="22.5470455" lon="114.1142982" visible="true"/>
+  <node id="-275" lat="22.5469878" lon="114.1142737" visible="true"/>
+  <node id="-276" lat="22.5469939" lon="114.1142566" visible="true"/>
+  <node id="-277" lat="22.54695" lon="114.1142662" visible="true"/>
+  <node id="-278" lat="22.5469939" lon="114.1145015" visible="true"/>
+  <node id="-279" lat="22.5468777" lon="114.1145269" visible="true"/>
+  <way id="-165" visible="true">
+    <nd ref="-265"/>
+    <nd ref="-279"/>
+    <nd ref="-278"/>
+    <nd ref="-277"/>
+    <nd ref="-276"/>
+    <nd ref="-275"/>
+    <nd ref="-274"/>
+    <nd ref="-273"/>
+    <nd ref="-272"/>
+    <nd ref="-271"/>
+    <nd ref="-270"/>
+    <nd ref="-269"/>
+    <nd ref="-268"/>
+    <nd ref="-265"/>
+    <tag k="u" v="12333989058"/>
+    <tag k="v" v="12333989058"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1238849042"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="226.57999999999998"/>
+  </way>
+  <way id="-166" visible="true">
+    <nd ref="-265"/>
+    <nd ref="-264"/>
+    <nd ref="-259"/>
+    <tag k="u" v="12333989058"/>
+    <tag k="v" v="12333989057"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="[1333150678, 1333150679]"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="18.701"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-167" visible="true">
+    <nd ref="-267"/>
+    <nd ref="-176"/>
+    <tag k="u" v="12333989062"/>
+    <tag k="v" v="2044364023"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1333150681"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="14.886"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-168" visible="true">
+    <nd ref="-267"/>
+    <nd ref="-280"/>
+    <nd ref="-172"/>
+    <tag k="u" v="12333989062"/>
+    <tag k="v" v="2044364022"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1333150680"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="82.61800000000001"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-280" lat="22.5462525" lon="114.1132933" visible="true"/>
+  <way id="-169" visible="true">
+    <nd ref="-267"/>
+    <nd ref="-266"/>
+    <nd ref="-259"/>
+    <tag k="u" v="12333989062"/>
+    <tag k="v" v="12333989057"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1333150680"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="60.834"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-170" visible="true">
+    <nd ref="-97"/>
+    <nd ref="-96"/>
+    <tag k="u" v="2765186749"/>
+    <tag k="v" v="349909286"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="38.567"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-171" visible="true">
+    <nd ref="-97"/>
+    <nd ref="-137"/>
+    <tag k="u" v="2765186749"/>
+    <tag k="v" v="12449937176"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800414"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="73.651"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-172" visible="true">
+    <nd ref="-97"/>
+    <nd ref="-281"/>
+    <nd ref="-282"/>
+    <nd ref="-283"/>
+    <tag k="u" v="2765186749"/>
+    <tag k="v" v="2765186539"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="59.266999999999996"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-281" lat="22.5480932" lon="114.1146446" visible="true"/>
+  <node id="-282" lat="22.5480726" lon="114.114799" visible="true"/>
+  <node id="-283" lat="22.5480834" lon="114.1150915" visible="true"/>
+  <way id="-173" visible="true">
+    <nd ref="-237"/>
+    <nd ref="-236"/>
+    <nd ref="-207"/>
+    <tag k="u" v="6210847977"/>
+    <tag k="v" v="1926671175"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="182315044"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="56.063"/>
+    <tag k="name" v="???????"/>
+  </way>
+  <way id="-174" visible="true">
+    <nd ref="-237"/>
+    <nd ref="-284"/>
+    <nd ref="-285"/>
+    <nd ref="-286"/>
+    <nd ref="-205"/>
+    <tag k="u" v="6210847977"/>
+    <tag k="v" v="12450026847"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="182315044"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="169.542"/>
+    <tag k="name" v="???????"/>
+  </way>
+  <node id="-284" lat="22.550115" lon="114.1163447" visible="true"/>
+  <node id="-285" lat="22.5501776" lon="114.1159953" visible="true"/>
+  <node id="-286" lat="22.5494416" lon="114.1158407" visible="true"/>
+  <way id="-175" visible="true">
+    <nd ref="-186"/>
+    <nd ref="-287"/>
+    <tag k="u" v="2044364017"/>
+    <tag k="v" v="2044364037"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927269"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="63.469"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="????"/>
+    <tag k="lanes" v="2"/>
+  </way>
+  <node id="-287" lat="22.5465019" lon="114.1131653" visible="true"/>
+  <way id="-176" visible="true">
+    <nd ref="-186"/>
+    <nd ref="-185"/>
+    <tag k="u" v="2044364017"/>
+    <tag k="v" v="2456799878"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="237813001"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="65.586"/>
+    <tag k="highway" v="construction"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-177" visible="true">
+    <nd ref="-186"/>
+    <nd ref="-62"/>
+    <tag k="u" v="2044364017"/>
+    <tag k="v" v="2044364019"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="887873497"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="64.545"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="????"/>
+  </way>
+  <way id="-178" visible="true">
+    <nd ref="-28"/>
+    <nd ref="-240"/>
+    <tag k="u" v="2044364018"/>
+    <tag k="v" v="2044364020"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927263"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="49.337"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-179" visible="true">
+    <nd ref="-28"/>
+    <nd ref="-56"/>
+    <tag k="u" v="2044364018"/>
+    <tag k="v" v="2044364021"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927270"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="60.748"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-180" visible="true">
+    <nd ref="-62"/>
+    <nd ref="-59"/>
+    <tag k="u" v="2044364019"/>
+    <tag k="v" v="6876000314"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="887873496"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="63.738"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="????"/>
+    <tag k="lanes" v="2"/>
+  </way>
+  <way id="-181" visible="true">
+    <nd ref="-62"/>
+    <nd ref="-186"/>
+    <tag k="u" v="2044364019"/>
+    <tag k="v" v="2044364017"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="887873497"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="64.545"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="????"/>
+  </way>
+  <way id="-182" visible="true">
+    <nd ref="-240"/>
+    <nd ref="-62"/>
+    <tag k="u" v="2044364020"/>
+    <tag k="v" v="2044364019"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927263"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="45.453"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-183" visible="true">
+    <nd ref="-240"/>
+    <nd ref="-238"/>
+    <tag k="u" v="2044364020"/>
+    <tag k="v" v="348429248"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927266"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="76.608"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-184" visible="true">
+    <nd ref="-56"/>
+    <nd ref="-43"/>
+    <tag k="u" v="2044364021"/>
+    <tag k="v" v="12958431281"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927270"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="58.517"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-185" visible="true">
+    <nd ref="-56"/>
+    <nd ref="-28"/>
+    <tag k="u" v="2044364021"/>
+    <tag k="v" v="2044364018"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927270"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="60.748"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-186" visible="true">
+    <nd ref="-56"/>
+    <nd ref="-288"/>
+    <nd ref="-289"/>
+    <nd ref="-290"/>
+    <nd ref="-291"/>
+    <nd ref="-292"/>
+    <nd ref="-33"/>
+    <tag k="u" v="2044364021"/>
+    <tag k="v" v="348429259"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31312614"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="137.077"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-288" lat="22.5476093" lon="114.1135488" visible="true"/>
+  <node id="-289" lat="22.5475955" lon="114.1137417" visible="true"/>
+  <node id="-290" lat="22.5475741" lon="114.1138705" visible="true"/>
+  <node id="-291" lat="22.5475554" lon="114.1139283" visible="true"/>
+  <node id="-292" lat="22.547533" lon="114.1139598" visible="true"/>
+  <way id="-187" visible="true">
+    <nd ref="-172"/>
+    <nd ref="-171"/>
+    <tag k="u" v="2044364022"/>
+    <tag k="v" v="9230070317"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927262"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="4.901"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-188" visible="true">
+    <nd ref="-172"/>
+    <nd ref="-176"/>
+    <tag k="u" v="2044364022"/>
+    <tag k="v" v="2044364023"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="523229000"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="65.109"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <way id="-189" visible="true">
+    <nd ref="-172"/>
+    <nd ref="-261"/>
+    <nd ref="-260"/>
+    <nd ref="-259"/>
+    <tag k="u" v="2044364022"/>
+    <tag k="v" v="12333989057"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="523229000"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="263.144"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <way id="-190" visible="true">
+    <nd ref="-172"/>
+    <nd ref="-280"/>
+    <nd ref="-267"/>
+    <tag k="u" v="2044364022"/>
+    <tag k="v" v="12333989062"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1333150680"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="82.61800000000001"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-191" visible="true">
+    <nd ref="-176"/>
+    <nd ref="-173"/>
+    <tag k="u" v="2044364023"/>
+    <tag k="v" v="9230070318"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927262"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="5.68"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-192" visible="true">
+    <nd ref="-176"/>
+    <nd ref="-172"/>
+    <tag k="u" v="2044364023"/>
+    <tag k="v" v="2044364022"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="523229000"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="65.109"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <way id="-193" visible="true">
+    <nd ref="-176"/>
+    <nd ref="-267"/>
+    <tag k="u" v="2044364023"/>
+    <tag k="v" v="12333989062"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1333150681"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="14.886"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-194" visible="true">
+    <nd ref="-176"/>
+    <nd ref="-263"/>
+    <nd ref="-262"/>
+    <nd ref="-259"/>
+    <tag k="u" v="2044364023"/>
+    <tag k="v" v="12333989057"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="523229000"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="156.037"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <way id="-195" visible="true">
+    <nd ref="-58"/>
+    <nd ref="-43"/>
+    <tag k="u" v="2044364026"/>
+    <tag k="v" v="12958431281"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1410266847"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="24.075"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-196" visible="true">
+    <nd ref="-58"/>
+    <nd ref="-293"/>
+    <nd ref="-101"/>
+    <tag k="u" v="2044364026"/>
+    <tag k="v" v="12449944889"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="55.182"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-293" lat="22.548394" lon="114.113108" visible="true"/>
+  <way id="-197" visible="true">
+    <nd ref="-58"/>
+    <nd ref="-294"/>
+    <nd ref="-295"/>
+    <tag k="u" v="2044364026"/>
+    <tag k="v" v="12449944872"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="39.328"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-294" lat="22.5483089" lon="114.112595" visible="true"/>
+  <node id="-295" lat="22.5482702" lon="114.1124774" visible="true"/>
+  <way id="-198" visible="true">
+    <nd ref="-58"/>
+    <nd ref="-127"/>
+    <nd ref="-126"/>
+    <nd ref="-122"/>
+    <tag k="u" v="2044364026"/>
+    <tag k="v" v="11508570500"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927267"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="82.075"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-199" visible="true">
+    <nd ref="-30"/>
+    <nd ref="-296"/>
+    <tag k="u" v="2044364028"/>
+    <tag k="v" v="348437757"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31312614"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="69.46"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-296" lat="22.5461557" lon="114.1147702" visible="true"/>
+  <way id="-200" visible="true">
+    <nd ref="-296"/>
+    <nd ref="-297"/>
+    <nd ref="-298"/>
+    <nd ref="-299"/>
+    <tag k="u" v="348437757"/>
+    <tag k="v" v="348413330"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="996647546"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="113.869"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="????"/>
+  </way>
+  <node id="-297" lat="22.5460045" lon="114.1138373" visible="true"/>
+  <node id="-298" lat="22.5459978" lon="114.1137962" visible="true"/>
+  <node id="-299" lat="22.5459787" lon="114.1136781" visible="true"/>
+  <way id="-201" visible="true">
+    <nd ref="-287"/>
+    <nd ref="-29"/>
+    <tag k="u" v="2044364037"/>
+    <tag k="v" v="12958431268"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927269"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="82.857"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="????"/>
+    <tag k="lanes" v="2"/>
+  </way>
+  <way id="-202" visible="true">
+    <nd ref="-287"/>
+    <nd ref="-300"/>
+    <nd ref="-25"/>
+    <tag k="u" v="2044364037"/>
+    <tag k="v" v="12958431267"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1234352668"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="42.812"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-300" lat="22.5468077" lon="114.1130955" visible="true"/>
+  <way id="-203" visible="true">
+    <nd ref="-125"/>
+    <nd ref="-99"/>
+    <tag k="u" v="2044364042"/>
+    <tag k="v" v="2044364043"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="76.811"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-204" visible="true">
+    <nd ref="-125"/>
+    <nd ref="-124"/>
+    <nd ref="-123"/>
+    <nd ref="-122"/>
+    <tag k="u" v="2044364042"/>
+    <tag k="v" v="11508570500"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="193927267"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="84.78"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-205" visible="true">
+    <nd ref="-125"/>
+    <nd ref="-301"/>
+    <nd ref="-103"/>
+    <tag k="u" v="2044364042"/>
+    <tag k="v" v="2765242342"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678168"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="55.806"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <node id="-301" lat="22.5496841" lon="114.1133668" visible="true"/>
+  <way id="-206" visible="true">
+    <nd ref="-99"/>
+    <nd ref="-96"/>
+    <tag k="u" v="2044364043"/>
+    <tag k="v" v="349909286"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397374"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="117.401"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="????"/>
+  </way>
+  <way id="-207" visible="true">
+    <nd ref="-99"/>
+    <nd ref="-181"/>
+    <tag k="u" v="2044364043"/>
+    <tag k="v" v="2623148601"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397374"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="32.574"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="????"/>
+  </way>
+  <way id="-208" visible="true">
+    <nd ref="-99"/>
+    <nd ref="-158"/>
+    <tag k="u" v="2044364043"/>
+    <tag k="v" v="12449937167"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="28.546"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-209" visible="true">
+    <nd ref="-99"/>
+    <nd ref="-125"/>
+    <tag k="u" v="2044364043"/>
+    <tag k="v" v="2044364042"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="76.811"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-210" visible="true">
+    <nd ref="-239"/>
+    <nd ref="-238"/>
+    <tag k="u" v="12449944868"/>
+    <tag k="v" v="348429248"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="6.616"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-211" visible="true">
+    <nd ref="-239"/>
+    <nd ref="-65"/>
+    <tag k="u" v="12449944868"/>
+    <tag k="v" v="12449944869"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="60.355"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-212" visible="true">
+    <nd ref="-239"/>
+    <nd ref="-254"/>
+    <tag k="u" v="12449944868"/>
+    <tag k="v" v="6302897876"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="2.941"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-213" visible="true">
+    <nd ref="-239"/>
+    <nd ref="-302"/>
+    <nd ref="-303"/>
+    <tag k="u" v="12449944868"/>
+    <tag k="v" v="8254932665"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="15.904"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-302" lat="22.5478003" lon="114.1120456" visible="true"/>
+  <node id="-303" lat="22.5478828" lon="114.112041" visible="true"/>
+  <way id="-214" visible="true">
+    <nd ref="-65"/>
+    <nd ref="-64"/>
+    <tag k="u" v="12449944869"/>
+    <tag k="v" v="12449944870"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="3.959"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-215" visible="true">
+    <nd ref="-65"/>
+    <nd ref="-239"/>
+    <tag k="u" v="12449944869"/>
+    <tag k="v" v="12449944868"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="60.355"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-216" visible="true">
+    <nd ref="-64"/>
+    <nd ref="-65"/>
+    <tag k="u" v="12449944870"/>
+    <tag k="v" v="12449944869"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="3.959"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-217" visible="true">
+    <nd ref="-64"/>
+    <nd ref="-304"/>
+    <nd ref="-305"/>
+    <tag k="u" v="12449944870"/>
+    <tag k="v" v="12449944886"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849037"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="25.070999999999998"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <node id="-304" lat="22.5477828" lon="114.1114818" visible="true"/>
+  <node id="-305" lat="22.5478228" lon="114.1117054" visible="true"/>
+  <way id="-218" visible="true">
+    <nd ref="-295"/>
+    <nd ref="-258"/>
+    <tag k="u" v="12449944872"/>
+    <tag k="v" v="12449944873"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="4.798"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-219" visible="true">
+    <nd ref="-295"/>
+    <nd ref="-294"/>
+    <nd ref="-58"/>
+    <tag k="u" v="12449944872"/>
+    <tag k="v" v="2044364026"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="39.328"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-220" visible="true">
+    <nd ref="-295"/>
+    <nd ref="-306"/>
+    <nd ref="-307"/>
+    <nd ref="-308"/>
+    <nd ref="-309"/>
+    <nd ref="-310"/>
+    <nd ref="-303"/>
+    <tag k="u" v="12449944872"/>
+    <tag k="v" v="8254932665"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="66.849"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-306" lat="22.5482397" lon="114.1123849" visible="true"/>
+  <node id="-307" lat="22.5481859" lon="114.1122644" visible="true"/>
+  <node id="-308" lat="22.548109" lon="114.1121457" visible="true"/>
+  <node id="-309" lat="22.5480479" lon="114.1120887" visible="true"/>
+  <node id="-310" lat="22.5479682" lon="114.1120533" visible="true"/>
+  <way id="-221" visible="true">
+    <nd ref="-258"/>
+    <nd ref="-257"/>
+    <tag k="u" v="12449944873"/>
+    <tag k="v" v="8254932669"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047314"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="9.462"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <way id="-222" visible="true">
+    <nd ref="-258"/>
+    <nd ref="-257"/>
+    <tag k="u" v="12449944873"/>
+    <tag k="v" v="8254932669"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="9.462"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-223" visible="true">
+    <nd ref="-258"/>
+    <nd ref="-295"/>
+    <tag k="u" v="12449944873"/>
+    <tag k="v" v="12449944872"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="4.798"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-224" visible="true">
+    <nd ref="-258"/>
+    <nd ref="-311"/>
+    <nd ref="-312"/>
+    <nd ref="-313"/>
+    <nd ref="-314"/>
+    <nd ref="-254"/>
+    <tag k="u" v="12449944873"/>
+    <tag k="v" v="6302897876"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047314"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="138.641"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <node id="-311" lat="22.5482343" lon="114.112507" visible="true"/>
+  <node id="-312" lat="22.5482441" lon="114.112617" visible="true"/>
+  <node id="-313" lat="22.5482396" lon="114.1127269" visible="true"/>
+  <node id="-314" lat="22.5477177" lon="114.1126201" visible="true"/>
+  <way id="-225" visible="true">
+    <nd ref="-89"/>
+    <nd ref="-315"/>
+    <tag k="u" v="12449944880"/>
+    <tag k="v" v="12449944881"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043246"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="3.76"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-315" lat="22.5479545" lon="114.1116154" visible="true"/>
+  <way id="-226" visible="true">
+    <nd ref="-89"/>
+    <nd ref="-305"/>
+    <tag k="u" v="12449944880"/>
+    <tag k="v" v="12449944886"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043248"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="13.557"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-227" visible="true">
+    <nd ref="-315"/>
+    <nd ref="-89"/>
+    <tag k="u" v="12449944881"/>
+    <tag k="v" v="12449944880"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043246"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="3.76"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-228" visible="true">
+    <nd ref="-305"/>
+    <nd ref="-303"/>
+    <tag k="u" v="12449944886"/>
+    <tag k="v" v="8254932665"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849037"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="35.104"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-229" visible="true">
+    <nd ref="-305"/>
+    <nd ref="-89"/>
+    <tag k="u" v="12449944886"/>
+    <tag k="v" v="12449944880"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043248"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="13.557"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-230" visible="true">
+    <nd ref="-305"/>
+    <nd ref="-304"/>
+    <nd ref="-64"/>
+    <tag k="u" v="12449944886"/>
+    <tag k="v" v="12449944870"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849037"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="25.070999999999998"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-231" visible="true">
+    <nd ref="-24"/>
+    <nd ref="-2"/>
+    <tag k="u" v="12449944887"/>
+    <tag k="v" v="11508563968"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849045"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="15.778"/>
+  </way>
+  <way id="-232" visible="true">
+    <nd ref="-24"/>
+    <nd ref="-122"/>
+    <tag k="u" v="12449944887"/>
+    <tag k="v" v="11508570500"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043249"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="9.038"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-233" visible="true">
+    <nd ref="-24"/>
+    <nd ref="-316"/>
+    <tag k="u" v="12449944887"/>
+    <tag k="v" v="12449944888"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043250"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="24.848"/>
+    <tag k="highway" v="footway"/>
+    <tag k="tunnel" v="building_passage"/>
+  </way>
+  <node id="-316" lat="22.5484696" lon="114.1133873" visible="true"/>
+  <way id="-234" visible="true">
+    <nd ref="-24"/>
+    <nd ref="-317"/>
+    <nd ref="-318"/>
+    <nd ref="-319"/>
+    <nd ref="-320"/>
+    <nd ref="-321"/>
+    <nd ref="-322"/>
+    <nd ref="-316"/>
+    <tag k="u" v="12449944887"/>
+    <tag k="v" v="12449944888"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1238849045"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="111.572"/>
+  </way>
+  <node id="-317" lat="22.5486962" lon="114.1133311" visible="true"/>
+  <node id="-318" lat="22.548699" lon="114.1131413" visible="true"/>
+  <node id="-319" lat="22.548694" lon="114.1129693" visible="true"/>
+  <node id="-320" lat="22.5484707" lon="114.1129768" visible="true"/>
+  <node id="-321" lat="22.5484758" lon="114.1131542" visible="true"/>
+  <node id="-322" lat="22.5484732" lon="114.1133249" visible="true"/>
+  <way id="-235" visible="true">
+    <nd ref="-316"/>
+    <nd ref="-3"/>
+    <tag k="u" v="12449944888"/>
+    <tag k="v" v="11508563960"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849045"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="11.986"/>
+  </way>
+  <way id="-236" visible="true">
+    <nd ref="-316"/>
+    <nd ref="-24"/>
+    <tag k="u" v="12449944888"/>
+    <tag k="v" v="12449944887"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043250"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="24.848"/>
+    <tag k="highway" v="footway"/>
+    <tag k="tunnel" v="building_passage"/>
+  </way>
+  <way id="-237" visible="true">
+    <nd ref="-316"/>
+    <nd ref="-322"/>
+    <nd ref="-321"/>
+    <nd ref="-320"/>
+    <nd ref="-319"/>
+    <nd ref="-318"/>
+    <nd ref="-317"/>
+    <nd ref="-24"/>
+    <tag k="u" v="12449944888"/>
+    <tag k="v" v="12449944887"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1238849045"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="111.57199999999999"/>
+  </way>
+  <way id="-238" visible="true">
+    <nd ref="-316"/>
+    <nd ref="-101"/>
+    <tag k="u" v="12449944888"/>
+    <tag k="v" v="12449944889"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043251"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="8.937"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-239" visible="true">
+    <nd ref="-101"/>
+    <nd ref="-316"/>
+    <tag k="u" v="12449944889"/>
+    <tag k="v" v="12449944888"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043251"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="8.937"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-240" visible="true">
+    <nd ref="-101"/>
+    <nd ref="-100"/>
+    <nd ref="-96"/>
+    <tag k="u" v="12449944889"/>
+    <tag k="v" v="349909286"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="82.89099999999999"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-241" visible="true">
+    <nd ref="-101"/>
+    <nd ref="-293"/>
+    <nd ref="-58"/>
+    <tag k="u" v="12449944889"/>
+    <tag k="v" v="2044364026"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="55.182"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-242" visible="true">
+    <nd ref="-161"/>
+    <nd ref="-159"/>
+    <tag k="u" v="12450026841"/>
+    <tag k="v" v="11508570630"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849064"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="2.346"/>
+  </way>
+  <way id="-243" visible="true">
+    <nd ref="-161"/>
+    <nd ref="-159"/>
+    <tag k="u" v="12450026841"/>
+    <tag k="v" v="11508570630"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="2.346"/>
+  </way>
+  <way id="-244" visible="true">
+    <nd ref="-161"/>
+    <nd ref="-224"/>
+    <tag k="u" v="12450026841"/>
+    <tag k="v" v="12450026844"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="6.036"/>
+  </way>
+  <way id="-245" visible="true">
+    <nd ref="-161"/>
+    <nd ref="-167"/>
+    <nd ref="-166"/>
+    <nd ref="-165"/>
+    <nd ref="-164"/>
+    <nd ref="-163"/>
+    <nd ref="-160"/>
+    <tag k="u" v="12450026841"/>
+    <tag k="v" v="11508570631"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849064"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="67.218"/>
+  </way>
+  <way id="-246" visible="true">
+    <nd ref="-222"/>
+    <nd ref="-220"/>
+    <tag k="u" v="12450026842"/>
+    <tag k="v" v="8589576990"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545833"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="4.313"/>
+  </way>
+  <way id="-247" visible="true">
+    <nd ref="-222"/>
+    <nd ref="-220"/>
+    <tag k="u" v="12450026842"/>
+    <tag k="v" v="8589576990"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="4.313"/>
+  </way>
+  <way id="-248" visible="true">
+    <nd ref="-222"/>
+    <nd ref="-162"/>
+    <tag k="u" v="12450026842"/>
+    <tag k="v" v="12450026845"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="3.721"/>
+  </way>
+  <way id="-249" visible="true">
+    <nd ref="-222"/>
+    <nd ref="-323"/>
+    <nd ref="-324"/>
+    <nd ref="-325"/>
+    <nd ref="-326"/>
+    <nd ref="-327"/>
+    <nd ref="-328"/>
+    <nd ref="-329"/>
+    <nd ref="-330"/>
+    <nd ref="-331"/>
+    <nd ref="-332"/>
+    <nd ref="-333"/>
+    <nd ref="-334"/>
+    <nd ref="-235"/>
+    <tag k="u" v="12450026842"/>
+    <tag k="v" v="12449937174"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545833"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="139.627"/>
+  </way>
+  <node id="-323" lat="22.549303" lon="114.1160177" visible="true"/>
+  <node id="-324" lat="22.5492891" lon="114.116024" visible="true"/>
+  <node id="-325" lat="22.5492382" lon="114.1160036" visible="true"/>
+  <node id="-326" lat="22.5492004" lon="114.1159831" visible="true"/>
+  <node id="-327" lat="22.5491874" lon="114.1159957" visible="true"/>
+  <node id="-328" lat="22.5491308" lon="114.1159753" visible="true"/>
+  <node id="-329" lat="22.5491207" lon="114.1159879" visible="true"/>
+  <node id="-330" lat="22.5490804" lon="114.1159675" visible="true"/>
+  <node id="-331" lat="22.5490828" lon="114.1159341" visible="true"/>
+  <node id="-332" lat="22.5490069" lon="114.1158992" visible="true"/>
+  <node id="-333" lat="22.5490687" lon="114.1156998" visible="true"/>
+  <node id="-334" lat="22.5491459" lon="114.1154614" visible="true"/>
+  <way id="-250" visible="true">
+    <nd ref="-213"/>
+    <nd ref="-224"/>
+    <tag k="u" v="12450026843"/>
+    <tag k="v" v="12450026844"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051846"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="10.773"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-251" visible="true">
+    <nd ref="-213"/>
+    <nd ref="-335"/>
+    <nd ref="-182"/>
+    <tag k="u" v="12450026843"/>
+    <tag k="v" v="12449937178"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="[748621324, 748621326]"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="18.581"/>
+    <tag k="highway" v="[&quot;footway&quot;, &quot;pedestrian&quot;]"/>
+  </way>
+  <node id="-335" lat="22.5494397" lon="114.1152142" visible="true"/>
+  <way id="-252" visible="true">
+    <nd ref="-213"/>
+    <nd ref="-212"/>
+    <nd ref="-211"/>
+    <nd ref="-210"/>
+    <tag k="u" v="12450026843"/>
+    <tag k="v" v="7001101028"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621326"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="53.425"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-253" visible="true">
+    <nd ref="-224"/>
+    <nd ref="-223"/>
+    <tag k="u" v="12450026844"/>
+    <tag k="v" v="8589576992"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="10.282"/>
+  </way>
+  <way id="-254" visible="true">
+    <nd ref="-224"/>
+    <nd ref="-161"/>
+    <tag k="u" v="12450026844"/>
+    <tag k="v" v="12450026841"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="6.036"/>
+  </way>
+  <way id="-255" visible="true">
+    <nd ref="-224"/>
+    <nd ref="-162"/>
+    <tag k="u" v="12450026844"/>
+    <tag k="v" v="12450026845"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051845"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="36.432"/>
+    <tag k="highway" v="footway"/>
+    <tag k="tunnel" v="building_passage"/>
+  </way>
+  <way id="-256" visible="true">
+    <nd ref="-224"/>
+    <nd ref="-213"/>
+    <tag k="u" v="12450026844"/>
+    <tag k="v" v="12450026843"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051846"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="10.773"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-257" visible="true">
+    <nd ref="-162"/>
+    <nd ref="-160"/>
+    <tag k="u" v="12450026845"/>
+    <tag k="v" v="11508570631"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="2.514"/>
+  </way>
+  <way id="-258" visible="true">
+    <nd ref="-162"/>
+    <nd ref="-222"/>
+    <tag k="u" v="12450026845"/>
+    <tag k="v" v="12450026842"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051844"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="3.721"/>
+  </way>
+  <way id="-259" visible="true">
+    <nd ref="-162"/>
+    <nd ref="-224"/>
+    <tag k="u" v="12450026845"/>
+    <tag k="v" v="12450026844"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051845"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="36.432"/>
+    <tag k="highway" v="footway"/>
+    <tag k="tunnel" v="building_passage"/>
+  </way>
+  <way id="-260" visible="true">
+    <nd ref="-162"/>
+    <nd ref="-202"/>
+    <tag k="u" v="12450026845"/>
+    <tag k="v" v="7001101024"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051847"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="3.652"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-261" visible="true">
+    <nd ref="-205"/>
+    <nd ref="-207"/>
+    <tag k="u" v="12450026847"/>
+    <tag k="v" v="1926671175"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="182315044"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="20.283"/>
+    <tag k="name" v="???????"/>
+  </way>
+  <way id="-262" visible="true">
+    <nd ref="-205"/>
+    <nd ref="-207"/>
+    <tag k="u" v="12450026847"/>
+    <tag k="v" v="1926671175"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051848"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="20.283"/>
+  </way>
+  <way id="-263" visible="true">
+    <nd ref="-205"/>
+    <nd ref="-286"/>
+    <nd ref="-285"/>
+    <nd ref="-284"/>
+    <nd ref="-237"/>
+    <tag k="u" v="12450026847"/>
+    <tag k="v" v="6210847977"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="182315044"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="169.542"/>
+    <tag k="name" v="???????"/>
+  </way>
+  <way id="-264" visible="true">
+    <nd ref="-205"/>
+    <nd ref="-204"/>
+    <nd ref="-201"/>
+    <tag k="u" v="12450026847"/>
+    <tag k="v" v="7001101022"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051848"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="9.464"/>
+  </way>
+  <way id="-265" visible="true">
+    <nd ref="-299"/>
+    <nd ref="-185"/>
+    <tag k="u" v="348413330"/>
+    <tag k="v" v="2456799878"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="996321281"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="105.705"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="????"/>
+  </way>
+  <way id="-266" visible="true">
+    <nd ref="-3"/>
+    <nd ref="-2"/>
+    <tag k="u" v="11508563960"/>
+    <tag k="v" v="11508563968"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849044"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="25.059"/>
+  </way>
+  <way id="-267" visible="true">
+    <nd ref="-3"/>
+    <nd ref="-2"/>
+    <tag k="u" v="11508563960"/>
+    <tag k="v" v="11508563968"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1238849045"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="25.059"/>
+  </way>
+  <way id="-268" visible="true">
+    <nd ref="-3"/>
+    <nd ref="-23"/>
+    <nd ref="-22"/>
+    <nd ref="-21"/>
+    <nd ref="-20"/>
+    <nd ref="-19"/>
+    <nd ref="-18"/>
+    <nd ref="-17"/>
+    <nd ref="-16"/>
+    <nd ref="-15"/>
+    <nd ref="-14"/>
+    <nd ref="-13"/>
+    <nd ref="-12"/>
+    <nd ref="-11"/>
+    <nd ref="-10"/>
+    <nd ref="-9"/>
+    <nd ref="-8"/>
+    <nd ref="-7"/>
+    <nd ref="-6"/>
+    <nd ref="-5"/>
+    <nd ref="-4"/>
+    <nd ref="-2"/>
+    <tag k="u" v="11508563960"/>
+    <tag k="v" v="11508563968"/>
+    <tag k="key" v="2"/>
+    <tag k="osmid" v="1238849044"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="301.449"/>
+  </way>
+  <way id="-269" visible="true">
+    <nd ref="-3"/>
+    <nd ref="-316"/>
+    <tag k="u" v="11508563960"/>
+    <tag k="v" v="12449944888"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849045"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="11.986"/>
+  </way>
+  <way id="-270" visible="true">
+    <nd ref="-187"/>
+    <nd ref="-168"/>
+    <tag k="u" v="2765186532"/>
+    <tag k="v" v="2760370694"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="996321281"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="86.791"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="????"/>
+  </way>
+  <way id="-271" visible="true">
+    <nd ref="-187"/>
+    <nd ref="-336"/>
+    <nd ref="-337"/>
+    <nd ref="-338"/>
+    <nd ref="-339"/>
+    <nd ref="-340"/>
+    <nd ref="-341"/>
+    <nd ref="-342"/>
+    <nd ref="-61"/>
+    <tag k="u" v="2765186532"/>
+    <tag k="v" v="2765186663"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="271562081"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="209.471"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <node id="-336" lat="22.5458147" lon="114.1121343" visible="true"/>
+  <node id="-337" lat="22.5462908" lon="114.1120477" visible="true"/>
+  <node id="-338" lat="22.5464518" lon="114.1117098" visible="true"/>
+  <node id="-339" lat="22.5464617" lon="114.1115301" visible="true"/>
+  <node id="-340" lat="22.5464444" lon="114.1113503" visible="true"/>
+  <node id="-341" lat="22.5464002" lon="114.1110788" visible="true"/>
+  <node id="-342" lat="22.5467089" lon="114.1110126" visible="true"/>
+  <way id="-272" visible="true">
+    <nd ref="-283"/>
+    <nd ref="-343"/>
+    <tag k="u" v="2765186539"/>
+    <tag k="v" v="2765186701"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="271562067"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="38.989"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-343" lat="22.5477352" lon="114.1150468" visible="true"/>
+  <way id="-273" visible="true">
+    <nd ref="-283"/>
+    <nd ref="-344"/>
+    <nd ref="-116"/>
+    <tag k="u" v="2765186539"/>
+    <tag k="v" v="4802150355"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="93.116"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-344" lat="22.5481141" lon="114.115438" visible="true"/>
+  <way id="-274" visible="true">
+    <nd ref="-283"/>
+    <nd ref="-282"/>
+    <nd ref="-281"/>
+    <nd ref="-97"/>
+    <tag k="u" v="2765186539"/>
+    <tag k="v" v="2765186749"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="59.266999999999996"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-275" visible="true">
+    <nd ref="-98"/>
+    <nd ref="-96"/>
+    <tag k="u" v="2765186548"/>
+    <tag k="v" v="349909286"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397374"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="38.528"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="????"/>
+  </way>
+  <way id="-276" visible="true">
+    <nd ref="-98"/>
+    <nd ref="-343"/>
+    <tag k="u" v="2765186548"/>
+    <tag k="v" v="2765186701"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="271562063"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="100.035"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-277" visible="true">
+    <nd ref="-98"/>
+    <nd ref="-33"/>
+    <tag k="u" v="2765186548"/>
+    <tag k="v" v="348429259"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621319"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="46.573"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="????"/>
+  </way>
+  <way id="-278" visible="true">
+    <nd ref="-170"/>
+    <nd ref="-345"/>
+    <nd ref="-346"/>
+    <nd ref="-347"/>
+    <nd ref="-348"/>
+    <nd ref="-349"/>
+    <nd ref="-350"/>
+    <nd ref="-351"/>
+    <tag k="u" v="2765186549"/>
+    <tag k="v" v="2765186639"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673003899"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="133.076"/>
+    <tag k="highway" v="primary_link"/>
+  </way>
+  <node id="-345" lat="22.5456376" lon="114.1108292" visible="true"/>
+  <node id="-346" lat="22.5456561" lon="114.1107972" visible="true"/>
+  <node id="-347" lat="22.5456919" lon="114.1107612" visible="true"/>
+  <node id="-348" lat="22.5457376" lon="114.1107327" visible="true"/>
+  <node id="-349" lat="22.545801" lon="114.1107104" visible="true"/>
+  <node id="-350" lat="22.5458544" lon="114.1106986" visible="true"/>
+  <node id="-351" lat="22.5467097" lon="114.110561" visible="true"/>
+  <way id="-279" visible="true">
+    <nd ref="-95"/>
+    <nd ref="-352"/>
+    <nd ref="-353"/>
+    <nd ref="-354"/>
+    <nd ref="-355"/>
+    <nd ref="-343"/>
+    <tag k="u" v="2765186632"/>
+    <tag k="v" v="2765186701"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="271562067"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="60.235"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-352" lat="22.5473139" lon="114.1151081" visible="true"/>
+  <node id="-353" lat="22.5473535" lon="114.1150732" visible="true"/>
+  <node id="-354" lat="22.5474476" lon="114.1150518" visible="true"/>
+  <node id="-355" lat="22.5475566" lon="114.1150518" visible="true"/>
+  <way id="-280" visible="true">
+    <nd ref="-95"/>
+    <nd ref="-94"/>
+    <nd ref="-93"/>
+    <nd ref="-90"/>
+    <tag k="u" v="2765186632"/>
+    <tag k="v" v="6876000335"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621318"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="69.801"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-281" visible="true">
+    <nd ref="-95"/>
+    <nd ref="-200"/>
+    <nd ref="-199"/>
+    <nd ref="-198"/>
+    <nd ref="-113"/>
+    <tag k="u" v="2765186632"/>
+    <tag k="v" v="7001101016"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621318"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="80.382"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-282" visible="true">
+    <nd ref="-351"/>
+    <nd ref="-61"/>
+    <tag k="u" v="2765186639"/>
+    <tag k="v" v="2765186663"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="887873496"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="45.532"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="????"/>
+    <tag k="lanes" v="2"/>
+  </way>
+  <way id="-283" visible="true">
+    <nd ref="-61"/>
+    <nd ref="-351"/>
+    <tag k="u" v="2765186663"/>
+    <tag k="v" v="2765186639"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="887873496"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="45.532"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="????"/>
+    <tag k="lanes" v="2"/>
+  </way>
+  <way id="-284" visible="true">
+    <nd ref="-61"/>
+    <nd ref="-59"/>
+    <tag k="u" v="2765186663"/>
+    <tag k="v" v="6876000314"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="887873496"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="40.989"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="????"/>
+    <tag k="lanes" v="2"/>
+  </way>
+  <way id="-285" visible="true">
+    <nd ref="-61"/>
+    <nd ref="-342"/>
+    <nd ref="-341"/>
+    <nd ref="-340"/>
+    <nd ref="-339"/>
+    <nd ref="-338"/>
+    <nd ref="-337"/>
+    <nd ref="-336"/>
+    <nd ref="-187"/>
+    <tag k="u" v="2765186663"/>
+    <tag k="v" v="2765186532"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="271562081"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="209.471"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="-286" visible="true">
+    <nd ref="-343"/>
+    <nd ref="-98"/>
+    <tag k="u" v="2765186701"/>
+    <tag k="v" v="2765186548"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="271562063"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="100.035"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-287" visible="true">
+    <nd ref="-343"/>
+    <nd ref="-283"/>
+    <tag k="u" v="2765186701"/>
+    <tag k="v" v="2765186539"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="271562067"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="38.989"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-288" visible="true">
+    <nd ref="-343"/>
+    <nd ref="-355"/>
+    <nd ref="-354"/>
+    <nd ref="-353"/>
+    <nd ref="-352"/>
+    <nd ref="-95"/>
+    <tag k="u" v="2765186701"/>
+    <tag k="v" v="2765186632"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="271562067"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="60.23499999999999"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-289" visible="true">
+    <nd ref="-303"/>
+    <nd ref="-305"/>
+    <tag k="u" v="8254932665"/>
+    <tag k="v" v="12449944886"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1238849037"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="35.104"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-290" visible="true">
+    <nd ref="-303"/>
+    <nd ref="-310"/>
+    <nd ref="-309"/>
+    <nd ref="-308"/>
+    <nd ref="-307"/>
+    <nd ref="-306"/>
+    <nd ref="-295"/>
+    <tag k="u" v="8254932665"/>
+    <tag k="v" v="12449944872"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="66.84899999999999"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-291" visible="true">
+    <nd ref="-303"/>
+    <nd ref="-302"/>
+    <nd ref="-239"/>
+    <tag k="u" v="8254932665"/>
+    <tag k="v" v="12449944868"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="15.904"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-292" visible="true">
+    <nd ref="-254"/>
+    <nd ref="-252"/>
+    <tag k="u" v="6302897876"/>
+    <tag k="v" v="8254932667"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047314"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="14.614"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <way id="-293" visible="true">
+    <nd ref="-254"/>
+    <nd ref="-252"/>
+    <tag k="u" v="6302897876"/>
+    <tag k="v" v="8254932667"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="14.614"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-294" visible="true">
+    <nd ref="-254"/>
+    <nd ref="-239"/>
+    <tag k="u" v="6302897876"/>
+    <tag k="v" v="12449944868"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="2.941"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-295" visible="true">
+    <nd ref="-254"/>
+    <nd ref="-314"/>
+    <nd ref="-313"/>
+    <nd ref="-312"/>
+    <nd ref="-311"/>
+    <nd ref="-258"/>
+    <tag k="u" v="6302897876"/>
+    <tag k="v" v="12449944873"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047314"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="138.641"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <way id="-296" visible="true">
+    <nd ref="-256"/>
+    <nd ref="-257"/>
+    <tag k="u" v="6302897878"/>
+    <tag k="v" v="8254932669"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047314"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="12.124"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <way id="-297" visible="true">
+    <nd ref="-256"/>
+    <nd ref="-257"/>
+    <tag k="u" v="6302897878"/>
+    <tag k="v" v="8254932669"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="12.124"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-298" visible="true">
+    <nd ref="-256"/>
+    <nd ref="-255"/>
+    <tag k="u" v="6302897878"/>
+    <tag k="v" v="8254932668"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047314"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="11.378"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <way id="-299" visible="true">
+    <nd ref="-256"/>
+    <nd ref="-255"/>
+    <tag k="u" v="6302897878"/>
+    <tag k="v" v="8254932668"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="11.378"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-300" visible="true">
+    <nd ref="-253"/>
+    <nd ref="-255"/>
+    <tag k="u" v="6302897877"/>
+    <tag k="v" v="8254932668"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047314"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="12.373"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <way id="-301" visible="true">
+    <nd ref="-253"/>
+    <nd ref="-255"/>
+    <tag k="u" v="6302897877"/>
+    <tag k="v" v="8254932668"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="12.373"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-302" visible="true">
+    <nd ref="-253"/>
+    <nd ref="-252"/>
+    <tag k="u" v="6302897877"/>
+    <tag k="v" v="8254932667"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047314"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="13.64"/>
+    <tag k="name" v="?????"/>
+  </way>
+  <way id="-303" visible="true">
+    <nd ref="-253"/>
+    <nd ref="-252"/>
+    <tag k="u" v="6302897877"/>
+    <tag k="v" v="8254932667"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346043243"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="13.64"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-304" visible="true">
+    <nd ref="-356"/>
+    <nd ref="-137"/>
+    <tag k="u" v="12449937154"/>
+    <tag k="v" v="12449937176"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800414"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="11.14"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <node id="-356" lat="22.5488728" lon="114.1146761" visible="true"/>
+  <way id="-305" visible="true">
+    <nd ref="-356"/>
+    <nd ref="-357"/>
+    <tag k="u" v="12449937154"/>
+    <tag k="v" v="12449937171"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051570"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="10.057"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-357" lat="22.5489614" lon="114.1146958" visible="true"/>
+  <way id="-306" visible="true">
+    <nd ref="-356"/>
+    <nd ref="-358"/>
+    <nd ref="-359"/>
+    <tag k="u" v="12449937154"/>
+    <tag k="v" v="12449937156"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800414"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="73.062"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <node id="-358" lat="22.5490092" lon="114.115254" visible="true"/>
+  <node id="-359" lat="22.5491114" lon="114.1152852" visible="true"/>
+  <way id="-307" visible="true">
+    <nd ref="-359"/>
+    <nd ref="-153"/>
+    <tag k="u" v="12449937156"/>
+    <tag k="v" v="12449937175"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="5.608"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-308" visible="true">
+    <nd ref="-359"/>
+    <nd ref="-360"/>
+    <nd ref="-361"/>
+    <tag k="u" v="12449937156"/>
+    <tag k="v" v="12449937180"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="25.177"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <node id="-360" lat="22.549144" lon="114.1151728" visible="true"/>
+  <node id="-361" lat="22.5491674" lon="114.115048" visible="true"/>
+  <way id="-309" visible="true">
+    <nd ref="-359"/>
+    <nd ref="-358"/>
+    <nd ref="-356"/>
+    <tag k="u" v="12449937156"/>
+    <tag k="v" v="12449937154"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800414"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="73.062"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-310" visible="true">
+    <nd ref="-362"/>
+    <nd ref="-363"/>
+    <tag k="u" v="12449937157"/>
+    <tag k="v" v="12449937158"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051569"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="14.215"/>
+  </way>
+  <node id="-362" lat="22.5491318" lon="114.1149442" visible="true"/>
+  <node id="-363" lat="22.5490055" lon="114.1149228" visible="true"/>
+  <way id="-311" visible="true">
+    <nd ref="-362"/>
+    <nd ref="-363"/>
+    <tag k="u" v="12449937157"/>
+    <tag k="v" v="12449937158"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="14.215"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-312" visible="true">
+    <nd ref="-362"/>
+    <nd ref="-155"/>
+    <tag k="u" v="12449937157"/>
+    <tag k="v" v="12449937172"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="6.006"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-313" visible="true">
+    <nd ref="-362"/>
+    <nd ref="-364"/>
+    <nd ref="-365"/>
+    <nd ref="-366"/>
+    <nd ref="-367"/>
+    <nd ref="-368"/>
+    <tag k="u" v="12449937157"/>
+    <tag k="v" v="12449937159"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051569"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="33.996"/>
+  </way>
+  <node id="-364" lat="22.5491442" lon="114.1149134" visible="true"/>
+  <node id="-365" lat="22.5491467" lon="114.1148718" visible="true"/>
+  <node id="-366" lat="22.5491454" lon="114.1148276" visible="true"/>
+  <node id="-367" lat="22.5491318" lon="114.114794" visible="true"/>
+  <node id="-368" lat="22.5489733" lon="114.1147605" visible="true"/>
+  <way id="-314" visible="true">
+    <nd ref="-363"/>
+    <nd ref="-368"/>
+    <tag k="u" v="12449937158"/>
+    <tag k="v" v="12449937159"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051569"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="17.048"/>
+  </way>
+  <way id="-315" visible="true">
+    <nd ref="-363"/>
+    <nd ref="-368"/>
+    <tag k="u" v="12449937158"/>
+    <tag k="v" v="12449937159"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="17.048"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-316" visible="true">
+    <nd ref="-363"/>
+    <nd ref="-362"/>
+    <tag k="u" v="12449937158"/>
+    <tag k="v" v="12449937157"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051569"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="14.215"/>
+  </way>
+  <way id="-317" visible="true">
+    <nd ref="-363"/>
+    <nd ref="-362"/>
+    <tag k="u" v="12449937158"/>
+    <tag k="v" v="12449937157"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="14.215"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-318" visible="true">
+    <nd ref="-368"/>
+    <nd ref="-363"/>
+    <tag k="u" v="12449937159"/>
+    <tag k="v" v="12449937158"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051569"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="17.048"/>
+  </way>
+  <way id="-319" visible="true">
+    <nd ref="-368"/>
+    <nd ref="-363"/>
+    <tag k="u" v="12449937159"/>
+    <tag k="v" v="12449937158"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="17.048"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-320" visible="true">
+    <nd ref="-368"/>
+    <nd ref="-357"/>
+    <tag k="u" v="12449937159"/>
+    <tag k="v" v="12449937171"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="6.775"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-321" visible="true">
+    <nd ref="-368"/>
+    <nd ref="-367"/>
+    <nd ref="-366"/>
+    <nd ref="-365"/>
+    <nd ref="-364"/>
+    <nd ref="-362"/>
+    <tag k="u" v="12449937159"/>
+    <tag k="v" v="12449937157"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051569"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="33.996"/>
+  </way>
+  <way id="-322" visible="true">
+    <nd ref="-369"/>
+    <nd ref="-370"/>
+    <tag k="u" v="12449937166"/>
+    <tag k="v" v="12449937168"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051571"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="4.469"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-369" lat="22.5491021" lon="114.114613" visible="true"/>
+  <node id="-370" lat="22.5490627" lon="114.1146044" visible="true"/>
+  <way id="-323" visible="true">
+    <nd ref="-369"/>
+    <nd ref="-158"/>
+    <tag k="u" v="12449937166"/>
+    <tag k="v" v="12449937167"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051571"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="15.633"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-324" visible="true">
+    <nd ref="-369"/>
+    <nd ref="-371"/>
+    <nd ref="-357"/>
+    <tag k="u" v="12449937166"/>
+    <tag k="v" v="12449937171"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051570"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="25.176000000000002"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <node id="-371" lat="22.5490835" lon="114.1147216" visible="true"/>
+  <way id="-325" visible="true">
+    <nd ref="-158"/>
+    <nd ref="-99"/>
+    <tag k="u" v="12449937167"/>
+    <tag k="v" v="2044364043"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="28.546"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-326" visible="true">
+    <nd ref="-158"/>
+    <nd ref="-369"/>
+    <tag k="u" v="12449937167"/>
+    <tag k="v" v="12449937166"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051571"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="15.633"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-327" visible="true">
+    <nd ref="-158"/>
+    <nd ref="-157"/>
+    <nd ref="-154"/>
+    <tag k="u" v="12449937167"/>
+    <tag k="v" v="11508570611"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="20.439"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-328" visible="true">
+    <nd ref="-370"/>
+    <nd ref="-369"/>
+    <tag k="u" v="12449937168"/>
+    <tag k="v" v="12449937166"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051571"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="4.469"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-329" visible="true">
+    <nd ref="-370"/>
+    <nd ref="-372"/>
+    <nd ref="-373"/>
+    <nd ref="-374"/>
+    <nd ref="-375"/>
+    <nd ref="-376"/>
+    <tag k="u" v="12449937168"/>
+    <tag k="v" v="4802150363"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800417"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="104.03500000000001"/>
+  </way>
+  <node id="-372" lat="22.5490744" lon="114.1145371" visible="true"/>
+  <node id="-373" lat="22.5492132" lon="114.1145652" visible="true"/>
+  <node id="-374" lat="22.5492383" lon="114.1144193" visible="true"/>
+  <node id="-375" lat="22.5489039" lon="114.1143515" visible="true"/>
+  <node id="-376" lat="22.5488572" lon="114.1146217" visible="true"/>
+  <way id="-330" visible="true">
+    <nd ref="-370"/>
+    <nd ref="-377"/>
+    <nd ref="-378"/>
+    <tag k="u" v="12449937168"/>
+    <tag k="v" v="12449937170"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800417"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="17.494"/>
+  </way>
+  <node id="-377" lat="22.5490529" lon="114.1146613" visible="true"/>
+  <node id="-378" lat="22.5489508" lon="114.1146406" visible="true"/>
+  <way id="-331" visible="true">
+    <nd ref="-378"/>
+    <nd ref="-376"/>
+    <tag k="u" v="12449937170"/>
+    <tag k="v" v="4802150363"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800417"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="10.587"/>
+  </way>
+  <way id="-332" visible="true">
+    <nd ref="-378"/>
+    <nd ref="-376"/>
+    <tag k="u" v="12449937170"/>
+    <tag k="v" v="4802150363"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="10.587"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-333" visible="true">
+    <nd ref="-378"/>
+    <nd ref="-357"/>
+    <tag k="u" v="12449937170"/>
+    <tag k="v" v="12449937171"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="5.79"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-334" visible="true">
+    <nd ref="-378"/>
+    <nd ref="-377"/>
+    <nd ref="-370"/>
+    <tag k="u" v="12449937170"/>
+    <tag k="v" v="12449937168"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800417"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="17.494"/>
+  </way>
+  <way id="-335" visible="true">
+    <nd ref="-357"/>
+    <nd ref="-356"/>
+    <tag k="u" v="12449937171"/>
+    <tag k="v" v="12449937154"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051570"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="10.057"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-336" visible="true">
+    <nd ref="-357"/>
+    <nd ref="-368"/>
+    <tag k="u" v="12449937171"/>
+    <tag k="v" v="12449937159"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="6.775"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-337" visible="true">
+    <nd ref="-357"/>
+    <nd ref="-378"/>
+    <tag k="u" v="12449937171"/>
+    <tag k="v" v="12449937170"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="5.79"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-338" visible="true">
+    <nd ref="-357"/>
+    <nd ref="-371"/>
+    <nd ref="-369"/>
+    <tag k="u" v="12449937171"/>
+    <tag k="v" v="12449937166"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051570"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="25.176000000000002"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-339" visible="true">
+    <nd ref="-155"/>
+    <nd ref="-361"/>
+    <tag k="u" v="12449937172"/>
+    <tag k="v" v="12449937180"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="9.347"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-340" visible="true">
+    <nd ref="-155"/>
+    <nd ref="-154"/>
+    <tag k="u" v="12449937172"/>
+    <tag k="v" v="11508570611"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="12.51"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-341" visible="true">
+    <nd ref="-155"/>
+    <nd ref="-379"/>
+    <tag k="u" v="12449937172"/>
+    <tag k="v" v="12449937173"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="4.465"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <node id="-379" lat="22.5492237" lon="114.114966" visible="true"/>
+  <way id="-342" visible="true">
+    <nd ref="-155"/>
+    <nd ref="-362"/>
+    <tag k="u" v="12449937172"/>
+    <tag k="v" v="12449937157"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="6.006"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-343" visible="true">
+    <nd ref="-379"/>
+    <nd ref="-380"/>
+    <tag k="u" v="12449937173"/>
+    <tag k="v" v="4802150351"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800413"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="7.321"/>
+  </way>
+  <node id="-380" lat="22.5492117" lon="114.1150361" visible="true"/>
+  <way id="-344" visible="true">
+    <nd ref="-379"/>
+    <nd ref="-380"/>
+    <tag k="u" v="12449937173"/>
+    <tag k="v" v="4802150351"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="7.321"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-345" visible="true">
+    <nd ref="-379"/>
+    <nd ref="-381"/>
+    <nd ref="-382"/>
+    <nd ref="-383"/>
+    <nd ref="-380"/>
+    <tag k="u" v="12449937173"/>
+    <tag k="v" v="4802150351"/>
+    <tag k="key" v="2"/>
+    <tag k="osmid" v="487800413"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="170.674"/>
+  </way>
+  <node id="-381" lat="22.549319" lon="114.1144105" visible="true"/>
+  <node id="-382" lat="22.5495281" lon="114.1144525" visible="true"/>
+  <node id="-383" lat="22.5494208" lon="114.1150782" visible="true"/>
+  <way id="-346" visible="true">
+    <nd ref="-379"/>
+    <nd ref="-155"/>
+    <tag k="u" v="12449937173"/>
+    <tag k="v" v="12449937172"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="4.465"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-347" visible="true">
+    <nd ref="-235"/>
+    <nd ref="-233"/>
+    <tag k="u" v="12449937174"/>
+    <tag k="v" v="8589577001"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545833"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="15.121"/>
+  </way>
+  <way id="-348" visible="true">
+    <nd ref="-235"/>
+    <nd ref="-233"/>
+    <tag k="u" v="12449937174"/>
+    <tag k="v" v="8589577001"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="15.121"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-349" visible="true">
+    <nd ref="-235"/>
+    <nd ref="-153"/>
+    <tag k="u" v="12449937174"/>
+    <tag k="v" v="12449937175"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="11.75"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-350" visible="true">
+    <nd ref="-235"/>
+    <nd ref="-334"/>
+    <nd ref="-333"/>
+    <nd ref="-332"/>
+    <nd ref="-331"/>
+    <nd ref="-330"/>
+    <nd ref="-329"/>
+    <nd ref="-328"/>
+    <nd ref="-327"/>
+    <nd ref="-326"/>
+    <nd ref="-325"/>
+    <nd ref="-324"/>
+    <nd ref="-323"/>
+    <nd ref="-222"/>
+    <tag k="u" v="12449937174"/>
+    <tag k="v" v="12450026842"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="925545833"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="139.62699999999998"/>
+  </way>
+  <way id="-351" visible="true">
+    <nd ref="-153"/>
+    <nd ref="-121"/>
+    <tag k="u" v="12449937175"/>
+    <tag k="v" v="4802150354"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="62.155"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-352" visible="true">
+    <nd ref="-153"/>
+    <nd ref="-359"/>
+    <tag k="u" v="12449937175"/>
+    <tag k="v" v="12449937156"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="5.608"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-353" visible="true">
+    <nd ref="-153"/>
+    <nd ref="-138"/>
+    <tag k="u" v="12449937175"/>
+    <tag k="v" v="11508570576"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="7.949"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-354" visible="true">
+    <nd ref="-153"/>
+    <nd ref="-235"/>
+    <tag k="u" v="12449937175"/>
+    <tag k="v" v="12449937174"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="11.75"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-355" visible="true">
+    <nd ref="-137"/>
+    <nd ref="-97"/>
+    <tag k="u" v="12449937176"/>
+    <tag k="v" v="2765186749"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800414"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="73.651"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-356" visible="true">
+    <nd ref="-137"/>
+    <nd ref="-356"/>
+    <tag k="u" v="12449937176"/>
+    <tag k="v" v="12449937154"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800414"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="11.14"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-357" visible="true">
+    <nd ref="-137"/>
+    <nd ref="-384"/>
+    <tag k="u" v="12449937176"/>
+    <tag k="v" v="12449937177"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="3.848"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <node id="-384" lat="22.5487804" lon="114.1146188" visible="true"/>
+  <way id="-358" visible="true">
+    <nd ref="-137"/>
+    <nd ref="-129"/>
+    <tag k="u" v="12449937176"/>
+    <tag k="v" v="11508570575"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="3.886"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-359" visible="true">
+    <nd ref="-384"/>
+    <nd ref="-385"/>
+    <tag k="u" v="12449937177"/>
+    <tag k="v" v="4802150360"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800416"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="2.068"/>
+  </way>
+  <node id="-385" lat="22.5487987" lon="114.1146224" visible="true"/>
+  <way id="-360" visible="true">
+    <nd ref="-384"/>
+    <nd ref="-385"/>
+    <tag k="u" v="12449937177"/>
+    <tag k="v" v="4802150360"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="2.068"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-361" visible="true">
+    <nd ref="-384"/>
+    <nd ref="-386"/>
+    <nd ref="-387"/>
+    <nd ref="-388"/>
+    <nd ref="-389"/>
+    <nd ref="-385"/>
+    <tag k="u" v="12449937177"/>
+    <tag k="v" v="4802150360"/>
+    <tag k="key" v="2"/>
+    <tag k="osmid" v="487800416"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="191.651"/>
+  </way>
+  <node id="-386" lat="22.5481681" lon="114.1144972" visible="true"/>
+  <node id="-387" lat="22.5482487" lon="114.1142848" visible="true"/>
+  <node id="-388" lat="22.5483433" lon="114.1142317" visible="true"/>
+  <node id="-389" lat="22.5488493" lon="114.1143387" visible="true"/>
+  <way id="-362" visible="true">
+    <nd ref="-384"/>
+    <nd ref="-137"/>
+    <tag k="u" v="12449937177"/>
+    <tag k="v" v="12449937176"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="3.848"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-363" visible="true">
+    <nd ref="-182"/>
+    <nd ref="-156"/>
+    <tag k="u" v="12449937178"/>
+    <tag k="v" v="2623148600"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621324"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="21.304"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-364" visible="true">
+    <nd ref="-182"/>
+    <nd ref="-234"/>
+    <tag k="u" v="12449937178"/>
+    <tag k="v" v="12449937179"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051932"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="27.348"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-365" visible="true">
+    <nd ref="-182"/>
+    <nd ref="-335"/>
+    <nd ref="-213"/>
+    <tag k="u" v="12449937178"/>
+    <tag k="v" v="12450026843"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="[748621324, 748621326]"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="18.581"/>
+    <tag k="highway" v="[&quot;footway&quot;, &quot;pedestrian&quot;]"/>
+  </way>
+  <way id="-366" visible="true">
+    <nd ref="-234"/>
+    <nd ref="-232"/>
+    <tag k="u" v="12449937179"/>
+    <tag k="v" v="8589577000"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="5.279"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-367" visible="true">
+    <nd ref="-234"/>
+    <nd ref="-380"/>
+    <tag k="u" v="12449937179"/>
+    <tag k="v" v="4802150351"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="2.339"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-368" visible="true">
+    <nd ref="-234"/>
+    <nd ref="-361"/>
+    <tag k="u" v="12449937179"/>
+    <tag k="v" v="12449937180"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051932"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="5.509"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-369" visible="true">
+    <nd ref="-234"/>
+    <nd ref="-182"/>
+    <tag k="u" v="12449937179"/>
+    <tag k="v" v="12449937178"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051932"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="27.348"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-370" visible="true">
+    <nd ref="-361"/>
+    <nd ref="-155"/>
+    <tag k="u" v="12449937180"/>
+    <tag k="v" v="12449937172"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="9.347"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-371" visible="true">
+    <nd ref="-361"/>
+    <nd ref="-234"/>
+    <tag k="u" v="12449937180"/>
+    <tag k="v" v="12449937179"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051932"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="5.509"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-372" visible="true">
+    <nd ref="-361"/>
+    <nd ref="-360"/>
+    <nd ref="-359"/>
+    <tag k="u" v="12449937180"/>
+    <tag k="v" v="12449937156"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="25.177"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-373" visible="true">
+    <nd ref="-385"/>
+    <nd ref="-384"/>
+    <tag k="u" v="4802150360"/>
+    <tag k="v" v="12449937177"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800416"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="2.068"/>
+  </way>
+  <way id="-374" visible="true">
+    <nd ref="-385"/>
+    <nd ref="-384"/>
+    <tag k="u" v="4802150360"/>
+    <tag k="v" v="12449937177"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="2.068"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-375" visible="true">
+    <nd ref="-385"/>
+    <nd ref="-389"/>
+    <nd ref="-388"/>
+    <nd ref="-387"/>
+    <nd ref="-386"/>
+    <nd ref="-384"/>
+    <tag k="u" v="4802150360"/>
+    <tag k="v" v="12449937177"/>
+    <tag k="key" v="2"/>
+    <tag k="osmid" v="487800416"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="191.651"/>
+  </way>
+  <way id="-376" visible="true">
+    <nd ref="-385"/>
+    <nd ref="-376"/>
+    <tag k="u" v="4802150360"/>
+    <tag k="v" v="4802150363"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="6.505"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-377" visible="true">
+    <nd ref="-60"/>
+    <nd ref="-238"/>
+    <tag k="u" v="11508563892"/>
+    <tag k="v" v="348429248"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31312614"/>
+    <tag k="oneway" v="1"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="64.657"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-378" visible="true">
+    <nd ref="-60"/>
+    <nd ref="-59"/>
+    <tag k="u" v="11508563892"/>
+    <tag k="v" v="6876000314"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="673047311"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="97.836"/>
+    <tag k="highway" v="footway"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-379" visible="true">
+    <nd ref="-380"/>
+    <nd ref="-379"/>
+    <tag k="u" v="4802150351"/>
+    <tag k="v" v="12449937173"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800413"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="7.321"/>
+  </way>
+  <way id="-380" visible="true">
+    <nd ref="-380"/>
+    <nd ref="-379"/>
+    <tag k="u" v="4802150351"/>
+    <tag k="v" v="12449937173"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="7.321"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-381" visible="true">
+    <nd ref="-380"/>
+    <nd ref="-383"/>
+    <nd ref="-382"/>
+    <nd ref="-381"/>
+    <nd ref="-379"/>
+    <tag k="u" v="4802150351"/>
+    <tag k="v" v="12449937173"/>
+    <tag k="key" v="2"/>
+    <tag k="osmid" v="487800413"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="170.674"/>
+  </way>
+  <way id="-382" visible="true">
+    <nd ref="-380"/>
+    <nd ref="-234"/>
+    <tag k="u" v="4802150351"/>
+    <tag k="v" v="12449937179"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="2.339"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-383" visible="true">
+    <nd ref="-121"/>
+    <nd ref="-153"/>
+    <tag k="u" v="4802150354"/>
+    <tag k="v" v="12449937175"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="62.155"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-384" visible="true">
+    <nd ref="-121"/>
+    <nd ref="-116"/>
+    <tag k="u" v="4802150354"/>
+    <tag k="v" v="4802150355"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800415"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="85.441"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-385" visible="true">
+    <nd ref="-121"/>
+    <nd ref="-201"/>
+    <tag k="u" v="4802150354"/>
+    <tag k="v" v="7001101022"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051849"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="48.314"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="-386" visible="true">
+    <nd ref="-121"/>
+    <nd ref="-120"/>
+    <nd ref="-119"/>
+    <nd ref="-118"/>
+    <nd ref="-117"/>
+    <tag k="u" v="4802150354"/>
+    <tag k="v" v="8258828673"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678169"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="63.197"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-387" visible="true">
+    <nd ref="-116"/>
+    <nd ref="-121"/>
+    <tag k="u" v="4802150355"/>
+    <tag k="v" v="4802150354"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800415"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="85.441"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-388" visible="true">
+    <nd ref="-116"/>
+    <nd ref="-115"/>
+    <nd ref="-114"/>
+    <tag k="u" v="4802150355"/>
+    <tag k="v" v="8258828670"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="66.212"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-389" visible="true">
+    <nd ref="-116"/>
+    <nd ref="-344"/>
+    <nd ref="-283"/>
+    <tag k="u" v="4802150355"/>
+    <tag k="v" v="2765186539"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="31397368"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="93.116"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="name" v="???"/>
+  </way>
+  <way id="-390" visible="true">
+    <nd ref="-376"/>
+    <nd ref="-378"/>
+    <tag k="u" v="4802150363"/>
+    <tag k="v" v="12449937170"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800417"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="10.587"/>
+  </way>
+  <way id="-391" visible="true">
+    <nd ref="-376"/>
+    <nd ref="-378"/>
+    <tag k="u" v="4802150363"/>
+    <tag k="v" v="12449937170"/>
+    <tag k="key" v="1"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="10.587"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-392" visible="true">
+    <nd ref="-376"/>
+    <nd ref="-385"/>
+    <tag k="u" v="4802150363"/>
+    <tag k="v" v="4802150360"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="1346051572"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="6.505"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="area" v="yes"/>
+  </way>
+  <way id="-393" visible="true">
+    <nd ref="-376"/>
+    <nd ref="-375"/>
+    <nd ref="-374"/>
+    <nd ref="-373"/>
+    <nd ref="-372"/>
+    <nd ref="-370"/>
+    <tag k="u" v="4802150363"/>
+    <tag k="v" v="12449937168"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="487800417"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="104.03500000000001"/>
+  </way>
+  <way id="-394" visible="true">
+    <nd ref="-103"/>
+    <nd ref="-102"/>
+    <tag k="u" v="2765242342"/>
+    <tag k="v" v="348410156"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678168"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="False"/>
+    <tag k="length" v="20.618"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-395" visible="true">
+    <nd ref="-103"/>
+    <nd ref="-301"/>
+    <nd ref="-125"/>
+    <tag k="u" v="2765242342"/>
+    <tag k="v" v="2044364042"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="256678168"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="55.806"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="-396" visible="true">
+    <nd ref="-103"/>
+    <nd ref="-184"/>
+    <nd ref="-181"/>
+    <tag k="u" v="2765242342"/>
+    <tag k="v" v="2623148601"/>
+    <tag k="key" v="0"/>
+    <tag k="osmid" v="748621324"/>
+    <tag k="oneway" v="0"/>
+    <tag k="reversed" v="True"/>
+    <tag k="length" v="118.986"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+</osm>
